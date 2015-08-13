@@ -24,7 +24,7 @@ Have something to add/change? Open a [pull request](https://github.com/luqmaan/a
 
 ### Web Apps
 
-- [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit.
+- [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
 - [Maryland MTA Real-time Vehicle Tracking](http://mtabustrack.herokuapp.com/)
 
 ### Native Apps
