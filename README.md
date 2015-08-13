@@ -26,4 +26,4 @@
 
 ### Data
 
-- [GTFS](http://www.gtfs-data-exchange.com/agencies)
+- [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies)
