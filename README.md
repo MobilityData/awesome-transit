@@ -13,6 +13,10 @@
 - [MapZen GTFS](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
 - [gtfsdb](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
 
+### Data
+
+- [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies)
+
 ### Webapps
 
 - [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit.
@@ -23,7 +27,3 @@
 - [Transit App](http://transitapp.com/)
 - [OneBusAway Android](http://onebusaway.org/)
 - [OneBusAway iOS](http://onebusaway.org/)
-
-### Data
-
-- [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies)
