@@ -25,6 +25,7 @@ Have something to add/change? Open a [pull request](https://github.com/luqmaan/a
 
 - [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
 - [Maryland MTA Real-time Vehicle Tracking](http://mtabustrack.herokuapp.com/)
+- [Maryland MTA Real-time Vehicle Tracking](http://mtabustrack.herokuapp.com/)
 
 ### Native Apps
 
@@ -32,8 +33,17 @@ Have something to add/change? Open a [pull request](https://github.com/luqmaan/a
 - [OneBusAway Android](http://onebusaway.org/)
 - [OneBusAway iOS](http://onebusaway.org/)
 
+### Visualizations
+
+- [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
+
+### Resources
+
+- [TransitWiki](http://www.transitwiki.org/) - A wiki for transit planners to find cost-effective strategies to improve transit service.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Luqmaan Dawoodjee has waived all copyright and related or neighboring rights to this work.
+
