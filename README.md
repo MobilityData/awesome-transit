@@ -3,7 +3,7 @@
 
 :bus: A collection of awesome transit related projects
 
-Have something to add/change? Open a [pull request](/pulls) or [issue](/issues).
+Have something to add/change? Open a [pull request](https://github.com/luqmaan/awesome-transit/pulls) or [issue](https://github.com/luqmaan/awesome-transit/issues).
 
 ------------------------------
 
