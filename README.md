@@ -1,6 +1,5 @@
 # awesome-transit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 ##### A collection of awesome transit related projects :bus::dash: :train::dash:
 
 Have something to add/change? Open a [pull request](https://github.com/luqmaan/awesome-transit/pulls) or [issue](https://github.com/luqmaan/awesome-transit/issues).
@@ -32,3 +31,9 @@ Have something to add/change? Open a [pull request](https://github.com/luqmaan/a
 - [Transit App](http://transitapp.com/)
 - [OneBusAway Android](http://onebusaway.org/)
 - [OneBusAway iOS](http://onebusaway.org/)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Luqmaan Dawoodjee has waived all copyright and related or neighboring rights to this work.
