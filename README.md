@@ -9,7 +9,7 @@ Have something to add/change? Open a [pull request](https://github.com/luqmaan/a
 
 ### APIs
 
-- [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS, GTFS-Realtime, and other formats and turns them into an easy to use REST API.
+- [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (aling with formats) and turns them into an easy to use REST API.
 - [TransitTime](www.transitime.org)
 
 ### GTFS
@@ -19,9 +19,10 @@ Have something to add/change? Open a [pull request](https://github.com/luqmaan/a
 
 ### Data
 
-- [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies)
+- [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies) - Links to many transit agency GTFS datasets.
+- [CapMetrics](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd](https://github.com/scascketta/capmetricsd), a Go daemon.
 
-### Webapps
+### Web Apps
 
 - [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit.
 - [Maryland MTA Real-time Vehicle Tracking](http://mtabustrack.herokuapp.com/)
