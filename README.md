@@ -2,7 +2,7 @@
 
 ##### A collection of awesome transit projects  :busstop: :bus::dash: :train::dash: :steam_locomotive::dash:
 
-Have something to add/change? Open a [pull request](https://github.com/luqmaan/awesome-transit/pulls) or [issue](https://github.com/luqmaan/awesome-transit/issues).
+Have something to add or change? Open a [pull request](https://github.com/luqmaan/awesome-transit/pulls) or [issue](https://github.com/luqmaan/awesome-transit/issues).
 
 ------------------------------
 
