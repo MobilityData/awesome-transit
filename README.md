@@ -11,6 +11,7 @@ Have something to add/change? Open a [pull request](https://github.com/luqmaan/a
 - [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies) - Links to many transit agency GTFS datasets.
 - [CapMetrics](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd](https://github.com/scascketta/capmetricsd), a Go daemon.
 - [National Transit Database](http://www.ntdprogram.gov/) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
+- [TransitLand](https://transit.land/) - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
 
 ### APIs
 
@@ -18,7 +19,7 @@ Software that provides an API to transit data.
 
 - [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
 - [TransitTime](http://www.transitime.org)
-- [TransitLand](https://transit.land/) - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
+
 
 ### GTFS
 
