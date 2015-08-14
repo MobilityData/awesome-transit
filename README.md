@@ -10,6 +10,7 @@ Have something to add/change? Open a [pull request](https://github.com/luqmaan/a
 
 - [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
 - [TransitTime](http://www.transitime.org)
+- [TransitLand](https://transit.land/) - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
 
 ### GTFS
 
