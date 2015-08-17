@@ -4,11 +4,19 @@
 
 Have something to add or change? Open a [pull request](https://github.com/luqmaan/awesome-transit/pulls) or [issue](https://github.com/luqmaan/awesome-transit/issues).
 
-### Data
-- [Data](#data)
-
-
 ------------------------------
+
+### Table of Contents
+
+- [Data](#data)
+- [APIs](#apis)
+- [Web Apps](#web-apps)
+- [Native Apps](#native-apps)
+- [Visualizations](#visualizations)
+- [Resources](#resources)
+- [GTFS](#gtfs)
+- [GTFS-realtime](#gtfs-realtime)
+- [SIRI](#siri)
 
 ### Data
 
