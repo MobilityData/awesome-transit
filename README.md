@@ -24,7 +24,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 - [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies) - Links to many transit agency GTFS datasets.
 - [CapMetrics](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd](https://github.com/scascketta/capmetricsd), a Go daemon.
 - [National Transit Database](http://www.ntdprogram.gov/) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
-- [TransitLand](https://transit.land/) - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
+- [Transitland](https://transit.land/) - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
 - [TransitFeeds](http://transitfeeds.com/) - An archive of public transit data for software developers, transit agencies, and more
 
 ### APIs
@@ -77,7 +77,7 @@ Software that provides an API to transit data.
 
 Software that makes it easy to consume GTFS data.
 
-- [MapZen GTFS](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
+- [Mapzen GTFS](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
 - [gtfsdb](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
 - [OneBusAway GTFS Modules](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
 - [GTFS to SQL](https://github.com/TransitFeeds/GtfsToSql) - Parses a GTFS feed into an SQL database (used in [TransitFeeds.com](http://transitfeeds.com/))
