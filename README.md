@@ -33,7 +33,7 @@ Software that provides an API to transit data.
 
 - [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia](https://github.com/CanalTP/navitia) is the opensource engine behind the live API.
 - [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
-- [TransitTime](http://www.transitime.org)
+- [TransiTime](http://www.transitime.org) - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.
 - [pyBikes](https://github.com/eskerda/pybikes) - an API on worldwide bikeshare systems powering [CityBikes](http://api.citybik.es)  
 
 ### Web Apps
@@ -66,12 +66,14 @@ Software that provides an API to transit data.
 
 - [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
 - [MIT COAXS](http://mittransportanalyst.github.io/) - Co-creative Planning of Transit Corridors using Accessibility-Based Stakeholder Engagement (shows route scenarios using [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
-- [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.
+- [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.  Github account for geOps organization is [here](https://github.com/geops).
 
 ### Resources
 
 - [TransitWiki](http://www.transitwiki.org/) - A wiki for transit planners to find cost-effective strategies to improve transit service.
 - ["Legacy AVL system? It's okay, join the club." by Kurt Raschke](https://kurtraschke.com/2015/01/legacy-avl-export) - Good discussion of options for transforming legacy AVL system data into the GTFS-realtime format.
+- [APTA Policy Development and Research - Public Transportation Embracing Open Data](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Embracing-Open-Data.pdf) - APTA's discussion of the benefits and challenges of open transit data (a short summary of the below TCRP report).
+- [TCRP Synthesis 115 - Open Data: Challenges and Opportunities for Transit Agencies](http://onlinepubs.trb.org/Onlinepubs/tcrp/tcrp_syn_115.pdf) - A comprehensive report looking at the benefits and challenges of open transit data.
 
 ### GTFS
 
