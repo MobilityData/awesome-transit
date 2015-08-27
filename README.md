@@ -72,6 +72,8 @@ Software that provides an API to transit data.
 
 - [TransitWiki](http://www.transitwiki.org/) - A wiki for transit planners to find cost-effective strategies to improve transit service.
 - ["Legacy AVL system? It's okay, join the club." by Kurt Raschke](https://kurtraschke.com/2015/01/legacy-avl-export) - Good discussion of options for transforming legacy AVL system data into the GTFS-realtime format.
+- [APTA Policy Development and Research - Public Transportation Embracing Open Data](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Embracing-Open-Data.pdf) - APTA's discussion of the benefits and challenges of open transit data (a short summary of the below TCRP report).
+- [TCRP Synthesis 115 - Open Data: Challenges and Opportunities for Transit Agencies](http://onlinepubs.trb.org/Onlinepubs/tcrp/tcrp_syn_115.pdf) - A comprehensive report looking at the benefits and challenges of open transit data.
 
 ### GTFS
 
