@@ -56,6 +56,7 @@ Software that provides an API to transit data.
 
 ### Native Apps (closed source)
 
+- [ally](http://allyapp.com/)
 - [Transit App](http://transitapp.com/)
 - [CityMapper](http://citymapper.com/)
 - [Moovit](http://moovitapp.com/)
