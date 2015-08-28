@@ -63,6 +63,7 @@ Software that provides an API to transit data.
 - [Moovit](http://moovitapp.com/)
 - [Tiramisu Transit](http://www.tiramisutransit.com/)
 - [Ridescout](http://www.ridescout.com/)
+- [TransLoc Rider](http://translocrider.com/) - Real-time transit maps for over 100 transit systems.
 
 ### Visualizations
 
