@@ -26,6 +26,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 - [National Transit Database](http://www.ntdprogram.gov/) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
 - [Transitland](https://transit.land/) - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
 - [TransitFeeds](http://transitfeeds.com/) - An archive of public transit data for software developers, transit agencies, and more
+- [TransLoc OpenAPI](https://www.mashape.com/transloc/openapi-1-2) - Real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States.
 
 ### APIs
 
