@@ -73,7 +73,6 @@ Tools for transit agencies.
 - [Tiramisu Transit](http://www.tiramisutransit.com/)
 - [Ridescout](http://www.ridescout.com/)
 - [TransLoc Rider](http://translocrider.com/) - Real-time transit maps for over 100 transit systems.
-- [Bongo](http://ebongo.org/)
 
 ### Visualizations
 
