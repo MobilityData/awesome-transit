@@ -27,7 +27,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 - [CapMetrics](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd](https://github.com/scascketta/capmetricsd), a Go daemon.
 - [National Transit Database](http://www.ntdprogram.gov/) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
 - [Transitland](https://transit.land/) - A community-edited data service aggregating transit networks across metropolitan and rural areas around the world. Currently under development.
-- [TransitFeeds](http://transitfeeds.com/) - An archive of public transit data for software developers, transit agencies, and more
+- [TransitFeeds](http://transitfeeds.com/) - List of GTFS and GTFS-RT feeds. [Archives and validates](http://transitfeeds.com/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](http://transitfeeds.com/p/capital-metro/24/20151015) and [GTFS-RT](http://transitfeeds.com/p/capital-metro/495) through the browser. 
 - [TransLoc OpenAPI](https://www.mashape.com/transloc/openapi-1-2) - Real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States.
 
 ### APIs
