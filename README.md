@@ -47,7 +47,7 @@ Tools for transit agencies.
 
 ### Web Apps
 
-- [TransitScreen](http://TransitScreen.com) - Custom realtime displays of all local transportation choices
+- [TransitScreen](http://transitscreen.com/) - Custom realtime displays of all local transportation choices
 - [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
 - [Maryland MTA Real-time Vehicle Tracking](http://mtabustrack.herokuapp.com/)
 - [OpenTripPlanner Client GWT](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
@@ -66,12 +66,12 @@ Tools for transit agencies.
 
 ### Native Apps (closed source)
 
-- [ally](http://allyapp.com/)
+- [ally](http://www.allyapp.com/)
 - [Transit App](http://transitapp.com/)
-- [CityMapper](http://citymapper.com/)
+- [CityMapper](https://citymapper.com/)
 - [Moovit](http://moovitapp.com/)
 - [Tiramisu Transit](http://www.tiramisutransit.com/)
-- [Ridescout](http://www.ridescout.com/)
+- [Ridescout](http://ridescout.com/)
 - [TransLoc Rider](http://translocrider.com/) - Real-time transit maps for over 100 transit systems.
 
 ### Visualizations
@@ -107,7 +107,7 @@ Software that makes it easy to consume GTFS data.
 - [Chouette](http://www.chouette.mobi/) - Converts French-Transmodel, SIRI, NETeX. See Chouette.mobi website for more info.
 - [bus-router](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 - [TransitWand](http://transitwand.com/) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
-- [gtfs-sequelize](https://github.com/djstroky/gtfs-sequelize) - Node.js library modeling the static GTFS using [sequelize.js](http://sequelizejs.com/).
+- [gtfs-sequelize](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using [sequelize.js](http://sequelizejs.com/).
 
 ### GTFS-realtime
 
@@ -133,7 +133,7 @@ Software that makes it easy to consume GTFS data.
 - [SoundTransit to GTFS-realtime](https://github.com/bdferris/onebusaway-sound-transit-realtime) - Convert text file feed from [Sound Transit](http://www.soundtransit.org/) to GTFS-realtime
 - [Civic Transit](https://github.com/jestin/CivicTransit) - Screen-scrapes [KCATA’s](http://www.kcata.org/) TransitMaster WebWatch installation to produce a GTFS-realtime feed.
 - [GTFS-realtime Munin Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin) - Provides a [Munin](http://munin-monitoring.org/) plugin for logging information about a GTFS-realtime feed.
-- [GTFS-realtime Nagio Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin) - Provides a [Nagios](http://www.nagios.org/) plugin for monitoring a GTFS-realtime feed
+- [GTFS-realtime Nagio Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin) - Provides a [Nagios](https://www.nagios.org/) plugin for monitoring a GTFS-realtime feed
 
 ### SIRI
 
