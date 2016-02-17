@@ -39,6 +39,8 @@ Software that provides an API to transit data.
 - [TransiTime](http://www.transitime.org) - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.
 - [pyBikes](https://github.com/eskerda/pybikes) - an API on worldwide bikeshare systems powering [CityBikes](http://api.citybik.es)  
 - [tripover](https://github.com/joriswu/tripover/wiki) - A journey planner good at broad searches. Like "from Cairns to Perth, depart any day next week". Aiming at the longer distance traveller searching for good trip options.  Used by the [Time & Wheel](http://timeandwheel.com/) webapp.
+- [OpenTripPlanner](http://www.opentripplanner.org/) - An open source platform for multi-modal and multi-agency journey planning, as well as returning information about a multi-modal graph (using data sources such as GTFS and [OpenStreetMap](http://www.openstreetmap.org/)).
+- [Linked Connections](http://linkedconnections.org/) - An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data.
 
 ### Agency Tools
 
