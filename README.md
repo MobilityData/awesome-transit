@@ -28,7 +28,7 @@ Places to ask questions and find other community resources.
 
 - [TransitWiki](http://transitwiki.org) - 
 - [Transit Developers Mailing List](https://groups.google.com/forum/#!forum/transit-developers)
-- [OneBusAway Slack](https://onebusaway.slack.com) - Slack chat for the OneBusAway project.
+- [OneBusAway Slack](https://onebusaway.herokuapp.com/) - Slack chat for the OneBusAway project.
 - OneBusAway Mailing Lists
   - [OneBusAway Users](http://groups.google.com/group/onebusaway-users)
   - [OneBusAway Developers](http://groups.google.com/group/onebusaway-developers)
