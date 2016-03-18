@@ -8,9 +8,11 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 
 ### Table of Contents
 
+- [Community](#community)
 - [Data](#data)
 - [APIs](#apis)
 - [Agency Tools](#agency-tools)
+- [Hardware](#hardware)
 - [Web Apps](#web-apps)
 - [Native Apps (open source)](#native-apps-open-source)
 - [Native Apps (closed source)](#native-apps-closed-source)
@@ -20,6 +22,17 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 - [GTFS-realtime](#gtfs-realtime)
 - [SIRI](#siri)
 
+### Community
+
+Places to ask questions and find other community resources.
+
+- [TransitWiki](http://transitwiki.org) - 
+- [Transit Developers Mailing List](https://groups.google.com/forum/#!forum/transit-developers)
+- [OneBusAway Slack](https://onebusaway.herokuapp.com/) - Slack chat for the OneBusAway project.
+- OneBusAway Mailing Lists
+  - [OneBusAway Users](http://groups.google.com/group/onebusaway-users)
+  - [OneBusAway Developers](http://groups.google.com/group/onebusaway-developers)
+  - [OneBusAway API](http://groups.google.com/group/onebusaway-api)
 
 ### Data
 
@@ -47,6 +60,12 @@ Software that provides an API to transit data.
 Tools for transit agencies.
 
 - [Remix](http://getremix.com/) - A webapp that lets transit agencies easily plan routes.
+
+### Hardware
+
+Experimental and production transit hardware.
+
+- [Bus Tracking GPS](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
 
 ### Web Apps
 
