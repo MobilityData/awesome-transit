@@ -136,6 +136,7 @@ Software that makes it easy to consume GTFS data.
 ### GTFS-realtime
 
 - [gtfs-realtime-bindings](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/gtfs-realtime-bindings/blob/master/gtfs-realtime.proto).
+- [gtfs-rt-dump](https://github.com/kurtraschke/gtfs-rt-dump) - Converts protocol buffer format to plain text for easy viewing of a GTFS-realtime feed in plain text (for debugging purposes)
 - [gtfsrdb](https://github.com/mattwigway/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 - [GTFS-realtime to SQL](https://github.com/TransitFeeds/GtfsRealTimeToSql) - Parses a GTFS-RealTime feed into an SQL database (used in [TransitFeeds.com](http://transitfeeds.com/))
 - [GTFS-realtime Validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - A Java-based tool that validates GTFS-realtime feeds
