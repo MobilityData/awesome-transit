@@ -27,12 +27,12 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 Places to ask questions and find other community resources.
 
 - [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
-- [Transit Developers Mailing List](https://groups.google.com/forum/#!forum/transit-developers)
+- [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
 - OneBusAway
-  - [OneBusAway Users](http://groups.google.com/group/onebusaway-users)
-  - [OneBusAway Developers](http://groups.google.com/group/onebusaway-developers)
-  - [OneBusAway API](http://groups.google.com/group/onebusaway-api)
-  - [OneBusAway Slack Chat](https://onebusaway.herokuapp.com/)
+  - [OneBusAway User mailing list](http://groups.google.com/group/onebusaway-users)
+  - [OneBusAway Developers mailing list](http://groups.google.com/group/onebusaway-developers)
+  - [OneBusAway API mailing list](http://groups.google.com/group/onebusaway-api)
+  - [OneBusAway Slack chat](https://onebusaway.herokuapp.com/)
 
 ### Data
 
