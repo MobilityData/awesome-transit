@@ -28,11 +28,11 @@ Places to ask questions and find other community resources.
 
 - [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
 - [Transit Developers Mailing List](https://groups.google.com/forum/#!forum/transit-developers)
-- [OneBusAway Slack](https://onebusaway.herokuapp.com/) - Slack chat for the OneBusAway project.
-- OneBusAway Mailing Lists
+- OneBusAway
   - [OneBusAway Users](http://groups.google.com/group/onebusaway-users)
   - [OneBusAway Developers](http://groups.google.com/group/onebusaway-developers)
   - [OneBusAway API](http://groups.google.com/group/onebusaway-api)
+  - [OneBusAway Slack Chat](https://onebusaway.herokuapp.com/)
 
 ### Data
 
