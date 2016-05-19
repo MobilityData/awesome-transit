@@ -26,7 +26,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 
 Places to ask questions and find other community resources.
 
-- [TransitWiki](http://transitwiki.org) - 
+- [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
 - [Transit Developers Mailing List](https://groups.google.com/forum/#!forum/transit-developers)
 - [OneBusAway Slack](https://onebusaway.herokuapp.com/) - Slack chat for the OneBusAway project.
 - OneBusAway Mailing Lists
