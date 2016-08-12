@@ -51,7 +51,6 @@ Software that provides an API to transit data.
 - [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
 - [TransiTime](http://www.transitime.org) - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.
 - [pyBikes](https://github.com/eskerda/pybikes) - an API on worldwide bikeshare systems powering [CityBikes](http://api.citybik.es)  
-- [tripover](https://github.com/joriswu/tripover/wiki) - A journey planner good at broad searches. Like "from Cairns to Perth, depart any day next week". Aiming at the longer distance traveller searching for good trip options.  Used by the [Time & Wheel](http://timeandwheel.com/) webapp.
 - [OpenTripPlanner](http://www.opentripplanner.org/) - An open source platform for multi-modal and multi-agency journey planning, as well as returning information about a multi-modal graph (using data sources such as GTFS and [OpenStreetMap](http://www.openstreetmap.org/)).
 - [Linked Connections](http://linkedconnections.org/) - An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data.
 
@@ -79,7 +78,6 @@ Experimental and production transit hardware.
 - [Transit-Map](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
 - [Bikeshare Map](http://bikes.oobrien.com/) - Status of all worldwide bikeshare stations
 - [Bongo](http://ebongo.org) - Real-time Transit Tracking for Iowa City, Coralville and the University of Iowa. Awesome because it combines three disparate transit systems into one UI.
-- [Time & Wheel](http://timeandwheel.com/) - Travel country-wide in the USA with train, bus, plane or ferry.  Uses the open-source [tripover routing engine](https://github.com/joriswu/tripover).
 - [Transitive.js](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
  
 ### Native Apps (open source)
