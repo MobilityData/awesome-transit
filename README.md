@@ -134,6 +134,7 @@ Software that makes it easy to consume GTFS data.
 - [TransitWand](http://transitwand.com/) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
 - [gtfs-sequelize](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using [sequelize.js](http://sequelizejs.com/).
 - [gtfslib-python](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
+- [gtfs-validator](https://github.com/laidig/gtfs-validator) - A GTFS validator based on the Onebusaway GTFS Modules. 
 
 ### GTFS-realtime
 
