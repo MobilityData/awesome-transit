@@ -19,6 +19,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 - [Visualizations](#visualizations)
 - [Resources](#resources)
 - [GTFS](#gtfs)
+- [GTFS validators](#gtfs-validators)
 - [GTFS-realtime](#gtfs-realtime)
 - [SIRI](#siri)
 
@@ -124,7 +125,7 @@ Software that makes it easy to consume GTFS data.
 - [SQL to GTFS](https://github.com/TransitFeeds/SqlToGtfs) - Convert an SQLite file generated with "GtfsToSql" back to a zipped GTFS file.
 - [Go GTFS Parser](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go
 - [GTFS Feed Parser](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser
-- [Node-GTFS](https://github.com/brendannee/node-gtfs) - Loads transit data in [GTFS format](https://developers.google.com/transit/) from [GTFS Data Exchange](http://www.gtfs-data-exchange.com/), unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times.
+- [Node-GTFS](https://github.com/brendannee/node-gtfs) - Loads transit data from [GTFS Data Exchange](http://www.gtfs-data-exchange.com/), unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times.
 - [GTFS-viz](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map](https://github.com/vasile/transit-map) web application)
 - [GTFS-OSM-Sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for syncrhonizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
 - [Transmodel and IFF to GTFS](https://github.com/bliksemlabs/bliksemintegration) - Imports and syncs (Transmodel) BISON Koppelvlak1, IFF (a format written by HP/EDS, somewhat similiar to ATCO CIF) to import timetables of the railway networks. The internal pseudo-NETeX datastructure allows to export to GTFS and there are proof-of-concepts to export to other formats such as NETeX, GTFS and IFF.
@@ -134,7 +135,10 @@ Software that makes it easy to consume GTFS data.
 - [TransitWand](http://transitwand.com/) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
 - [gtfs-sequelize](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using [sequelize.js](http://sequelizejs.com/).
 - [gtfslib-python](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
-- [gtfs-validator](https://github.com/laidig/gtfs-validator) - A GTFS validator based on the Onebusaway GTFS Modules. 
+ 
+#### GTFS validators
+- [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google supported Python-based GTFS validator. 
+- [gtfs-validator](https://github.com/laidig/gtfs-validator) - A GTFS validator based on the Onebusaway GTFS Modules, runs in Java and is faster than the Google provided one. 
 
 ### GTFS-realtime
 
