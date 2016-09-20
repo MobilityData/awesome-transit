@@ -138,7 +138,8 @@ Software that makes it easy to consume GTFS data.
  
 #### GTFS validators
 - [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google supported Python-based GTFS validator. 
-- [gtfs-validator](https://github.com/laidig/gtfs-validator) - A GTFS validator based on the Onebusaway GTFS Modules, runs in Java and is faster than the Google provided one. 
+- [gtfs-validator](https://github.com/conveyal/gtfs-validator) - - A GTFS validator based on the Onebusaway GTFS Modules, runs in Java and is faster than the Google provided one. 
+- [gtfs-validator](https://github.com/laidig/gtfs-validator) - Fork of the Conveyal validator above, with additional checks. 
 
 ### GTFS-realtime
 
