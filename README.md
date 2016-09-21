@@ -21,8 +21,8 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 - [GTFS](#gtfs)
 - [GTFS Libraries](#gtfs-libraries)
 - [GTFS Tools](#gtfs-tools)
-- [GTFS validators](#gtfs-validators)
-- [GTFS-realtime](#gtfs-realtime)
+- [GTFS Validators](#gtfs-validators)
+- [GTFS Realtime](#gtfs-realtime)
 - [SIRI](#siri)
 
 ### Community
@@ -148,12 +148,12 @@ Converters from various static schedule formats to GTFS.
 - [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) - A workflow tool for managing large amounts of GTFS data and importing them into OpenTripPlanner.
 
  
-#### GTFS validators
+#### GTFS Validators
 - [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google supported Python-based GTFS validator. 
 - [gtfs-validator](https://github.com/conveyal/gtfs-validator) - - A GTFS validator based on the Onebusaway GTFS Modules, runs in Java and is faster than the Google provided one. 
 - [gtfs-validator](https://github.com/laidig/gtfs-validator) - Fork of the Conveyal validator above, with additional checks. 
 
-### GTFS-realtime
+### GTFS Realtime
 
 - [gtfs-realtime-bindings](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/gtfs-realtime-bindings/blob/master/gtfs-realtime.proto).
 - [gtfs-rt-dump](https://github.com/kurtraschke/gtfs-rt-dump) - Converts protocol buffer format to plain text for easy viewing of a GTFS-realtime feed in plain text (for debugging purposes)
