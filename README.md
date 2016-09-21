@@ -88,6 +88,7 @@ Apps people use when taking transit.
 - [Bongo](http://ebongo.org) - Real-time Transit Tracking for Iowa City, Coralville and the University of Iowa. Awesome because it combines three disparate transit systems into one UI.
 - [Transitive.js](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 - [Brand New Subway](http://jpwright.net/subway/) - An interactive transportation planning game that lets players alter the NYC subway system to their heart's content.
+- [CityMapper Webapp](https://citymapper.com/nyc) - Really polished webapp with trip planner and route status for over 30 of cities.
  
 #### Native Apps (open source)
 
@@ -98,11 +99,10 @@ Apps people use when taking transit.
 #### Native Apps (closed source)
 
 - [ally](http://www.allyapp.com/)
-- [Transit App](http://transitapp.com/)
+- [Transit](http://transitapp.com/)
 - [CityMapper](https://citymapper.com/)
 - [Moovit](http://moovitapp.com/)
 - [Tiramisu Transit](http://www.tiramisutransit.com/)
-- [Ridescout](http://ridescout.com/)
 - [TransLoc Rider](http://translocrider.com/) - Real-time transit maps for over 100 transit systems.
 
 ### Visualizations
