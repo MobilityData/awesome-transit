@@ -117,9 +117,11 @@ Experimental and production transit hardware.
 - [TCRP Synthesis 115 - Open Data: Challenges and Opportunities for Transit Agencies](http://onlinepubs.trb.org/Onlinepubs/tcrp/tcrp_syn_115.pdf) - A comprehensive report looking at the benefits and challenges of open transit data.
 
 ### GTFS
--[GTFS Spec](https://developers.google.com/transit/gtfs/) Specification for the General Transit Data Feed, or GTFS.
+
+- [GTFS Spec](https://developers.google.com/transit/gtfs/) Specification for the General Transit Data Feed, or GTFS.
 
 #### GTFS Libraries
+
 Software that makes it easy to consume GTFS data in a variety of languages.
 
 - [Mapzen GTFS](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
@@ -136,12 +138,15 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [gtfslib-python](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
  
 #### GTFS Converters
+
 Converters from various static schedule formats to GTFS. 
+
 - [Transmodel and IFF to GTFS](https://github.com/bliksemlabs/bliksemintegration) - Imports and syncs (Transmodel) BISON Koppelvlak1, IFF (a format written by HP/EDS, somewhat similiar to ATCO CIF) to import timetables of the railway networks. The internal pseudo-NETeX datastructure allows to export to GTFS and there are proof-of-concepts to export to other formats such as NETeX, GTFS and IFF.
 - [Open-Transport SYNTHESE Convertors](https://github.com/Open-Transport/synthese/wiki) - Converts French-Transmodel, SIRI, NETeX, HAFAS, HASTUS, VDV452, and more.
 - [Chouette](http://www.chouette.mobi/) - Converts French-Transmodel, SIRI, NETeX. See Chouette.mobi website for more info.
  
 #### GTFS Tools
+
 - [bus-router](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor) A (self-hosted) web-based GTFS editing framework.
 - [TransitWand](http://transitwand.com/) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
@@ -149,6 +154,7 @@ Converters from various static schedule formats to GTFS.
 
  
 #### GTFS Validators
+
 - [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google supported Python-based GTFS validator. 
 - [gtfs-validator](https://github.com/conveyal/gtfs-validator) - - A GTFS validator based on the Onebusaway GTFS Modules, runs in Java and is faster than the Google provided one. 
 - [gtfs-validator](https://github.com/laidig/gtfs-validator) - Fork of the Conveyal validator above, with additional checks. 
