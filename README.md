@@ -19,9 +19,9 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 - [Visualizations](#visualizations)
 - [Resources](#resources)
 - [GTFS](#gtfs)
-- [GTFS Libraries](#gtfs-libraries)
-- [GTFS Tools](#gtfs-tools)
-- [GTFS Validators](#gtfs-validators)
+  - [GTFS Libraries](#gtfs-libraries)
+  - [GTFS Tools](#gtfs-tools)
+  - [GTFS Validators](#gtfs-validators)
 - [GTFS Realtime](#gtfs-realtime)
 - [SIRI](#siri)
 
