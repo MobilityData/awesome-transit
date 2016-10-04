@@ -1,6 +1,6 @@
 # awesome-transit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-##### A collection of awesome transit projects  :busstop: :bus::dash: :train::dash: :steam_locomotive::dash:
+##### Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 
 Have something to add or change? Open a [pull request](https://github.com/luqmaan/awesome-transit/pulls) or [issue](https://github.com/luqmaan/awesome-transit/issues).
 
