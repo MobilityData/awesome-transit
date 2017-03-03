@@ -105,6 +105,7 @@ Apps people use when taking transit.
 - [Moovit](http://moovitapp.com/)
 - [Tiramisu Transit](http://www.tiramisutransit.com/)
 - [TransLoc Rider](http://translocrider.com/) - Real-time transit maps for over 100 transit systems.
+- [Transit Display](http://transitdisplay.com/) - Multimodal and real-time transit display software.
 
 ### Visualizations
 
