@@ -115,6 +115,7 @@ Apps people use when taking transit.
 - [Muni, this moment](http://allthebuses.com/) - Realtime map of all the buses in San Francisco.
 - [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) - Frequency visualization of subways and buses in New York City built using [Transitland](https://transit.land/).
 - [Veridict LiveMap](https://livemap.veridict.com/) - Millions of individually tracked public transport units across the entire world. Based on a number of sources, including GTFS and GTFS-RT. 
+- [Graphs in Transit](https://gtfs-graph.herokuapp.com/) - Graph centrality metrics displayed over rapid transit networks for New York City, Boston, and Paris.
 
 ### Resources
 
@@ -126,7 +127,8 @@ Apps people use when taking transit.
 
 ### GTFS
 
-- [GTFS Spec](https://developers.google.com/transit/gtfs/) Specification for the General Transit Data Feed, or GTFS.
+- [GTFS Spec](https://developers.google.com/transit/gtfs/) - Specification for the General Transit Data Feed, or GTFS.
+- [GTFS Best Practices](http://gtfs.org/best-practices/) - Best practices for producers of a GTFS feed.
 
 #### GTFS Libraries
 
