@@ -117,6 +117,7 @@ Apps people use when taking transit.
 - [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) - Frequency visualization of subways and buses in New York City built using [Transitland](https://transit.land/).
 - [Veridict LiveMap](https://livemap.veridict.com/) - Millions of individually tracked public transport units across the entire world. Based on a number of sources, including GTFS and GTFS-RT. 
 - [Graphs in Transit](https://gtfs-graph.herokuapp.com/) - Graph centrality metrics displayed over rapid transit networks for New York City, Boston, and Paris.
+- [SEPTA Rail OTP Report](https://github.com/fulldecent/septa-regionalrail-otp) - An online on-time performance reporing & drill down tool using GTFS.
 
 ### Resources
 
