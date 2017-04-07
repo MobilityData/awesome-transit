@@ -24,7 +24,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
   - [GTFS Tools](#gtfs-tools)
   - [GTFS Validators](#gtfs-validators)
 - [GTFS Realtime](#gtfs-realtime)
-  - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries-&-demo-apps-(reading/writing-GTFS-realtime-feeds)
+  - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries-&-demo-apps-reading/writing-GTFS-realtime-feeds)
   - [GTFS Realtime Validators](#gtfs-realtime-validators)
   - [GTFS Realtime Archival Tools](#gtfs-realtime-archival-tools)
   - [GTFS Realtime Convertors](#gtfs-realtime-convertors)
@@ -181,7 +181,7 @@ Converters from various static schedule formats to GTFS.
 
 ### GTFS Realtime
 
-#### GTFS Realtime Libraries & Demo Apps (reading/writing GTFS-realtime feeds)
+#### GTFS Realtime Libraries & Demo Apps
 
 - [gtfs-realtime-bindings](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/gtfs-realtime-bindings/blob/master/gtfs-realtime.proto).
 - [GTFS-realtime Exporter](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
@@ -192,7 +192,7 @@ Converters from various static schedule formats to GTFS.
 
 #### GTFS Realtime Validators
 
-- [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) (Unofficial) - A GTFS-realtime validation tool developed by the Center for Urban Transportation Research at the University of South Florida.  Also includes an integrated version of the [gtfs-validator](https://github.com/conveyal/gtfs-validator) tool.
+- [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - A GTFS-realtime validation tool developed by the Center for Urban Transportation Research at the University of South Florida.  Also includes an integrated version of the [gtfs-validator](https://github.com/conveyal/gtfs-validator) tool.
 
 #### GTFS Realtime Archival Tools
 
