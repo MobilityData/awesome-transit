@@ -24,7 +24,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
   - [GTFS Tools](#gtfs-tools)
   - [GTFS Validators](#gtfs-validators)
 - [GTFS Realtime](#gtfs-realtime)
-  - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries-&-demo-apps)
+  - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries--demo-apps)
   - [GTFS Realtime Validators](#gtfs-realtime-validators)
   - [GTFS Realtime Archival Tools](#gtfs-realtime-archival-tools)
   - [GTFS Realtime Convertors](#gtfs-realtime-convertors)
