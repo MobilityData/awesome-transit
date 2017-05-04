@@ -178,6 +178,7 @@ Converters from various static schedule formats to GTFS.
 - [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google supported Python-based GTFS validator. 
 - [gtfs-validator](https://github.com/conveyal/gtfs-validator) - - A GTFS validator based on the OneBusAway GTFS Modules, runs in Java and is faster than the Google provided one. 
 - [GFTS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
+- [GTFS Meta-Validator](http://gtfsvalidator.omnimodal.io) - A web-based GTFS validator that runs both [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) and [gtfs-validator](https://github.com/conveyal/gtfs-validator) on uploaded GTFS files.
 
 ### GTFS Realtime
 
