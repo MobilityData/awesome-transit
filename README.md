@@ -181,7 +181,7 @@ Converters from various static schedule formats to GTFS.
 - [GTFS Meta-Validator](http://gtfsvalidator.omnimodal.io) - A web-based GTFS validator that runs both [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) and [gtfs-validator](https://github.com/conveyal/gtfs-validator) on uploaded GTFS files.
 
 ### GTFS Realtime
-- [GTFS-realtime Documentation](https://github.com/google/transit/blob/master/gtfs-realtime/spec/en/reference.md)
+- [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime)
 - [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions. 
 
 #### GTFS Realtime Libraries & Demo Apps
