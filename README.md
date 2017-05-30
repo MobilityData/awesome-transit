@@ -48,7 +48,7 @@ Places to ask questions and find other community resources.
 
 - [Transitland](https://transit.land/) - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.
 - [CapMetrics](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd](https://github.com/scascketta/capmetricsd), a Go daemon.
-- [National Transit Database](http://www.ntdprogram.gov/) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
+- [National Transit Database](https://www.transit.dot.gov/ntd) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
 - [TransitFeeds](http://transitfeeds.com/) - List of GTFS and GTFS-RT feeds. [Archives and validates](http://transitfeeds.com/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](http://transitfeeds.com/p/capital-metro/24/20151015) and [GTFS-RT](http://transitfeeds.com/p/capital-metro/495) through the browser. 
 - [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - Real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States.
 - [GTFS Data Exchange](http://www.gtfs-data-exchange.com/agencies) - Used to be the definitive list of GTFS links. Shutdown in 2016. But 93G of data from 2008 to 2016 is available upon request.
