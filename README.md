@@ -8,6 +8,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 
 ### Table of Contents
 
+- [Getting started](#getting-started)
 - [Community](#community)
 - [Data](#data)
 - [APIs](#apis)
@@ -30,6 +31,15 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
   - [GTFS Realtime Convertors](#gtfs-realtime-convertors)
   - [GTFS Realtime Utilities](#gtfs-realtime-utilities)
 - [SIRI](#siri)
+
+### Getting started
+
+If this is your first time dealing with transit data, you might find these links useful:
+
+- [GTFS](https://developers.google.com/transit/gtfs/) - GTFS is a of text files that contains infrequently changing transit data, like stops, routes, trips, and other schedule data. Most transit agencies typically update their GTFS feed every few months.
+- [GTFS Realtime](https://developers.google.com/transit/gtfs-realtime/) - GTFS Realtime consists of three binary files that contain realtime vehicle positions, realtime arrival information, and service alerts. Transit agencies typically update these files every minute.
+- [Transitland ](https://transit.land/) - A community curated list of GTFS/GTFS-realtime data feeds from around the world. If you're trying to get realtime data for some agency, this is a good place to start.
+
 
 ### Community
 
