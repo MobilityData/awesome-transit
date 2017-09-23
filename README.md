@@ -167,7 +167,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [multigtfs](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS
 - [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed.
 - [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
-- [partridge](https://github.com/remix/partridge) - A fast, forgiving GTFS reader built on pandas DataFrames.
+- [partridge](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
 
 #### GTFS Converters
 
