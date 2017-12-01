@@ -22,6 +22,7 @@ Have something to add or change? Open a [pull request](https://github.com/luqmaa
 - [Resources](#resources)
 - [GTFS](#gtfs)
   - [GTFS Libraries](#gtfs-libraries)
+  - [GTFS Converters](#gtfs-converters)
   - [GTFS Tools](#gtfs-tools)
   - [GTFS Validators](#gtfs-validators)
 - [GTFS Realtime](#gtfs-realtime)
