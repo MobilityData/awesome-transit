@@ -81,6 +81,7 @@ Software that provides an API to transit data.
 Tools for transit agencies.
 
 - [Remix](http://getremix.com/) - A webapp that lets transit agencies easily plan routes.
+- [Next Train API](https://github.com/data-creative/next-train-api) - Serves any GTFS feed as a JSON API! Transit agencies and developers alike can deploy the open source code to their own Heroku server.
 
 ### Hardware
 
@@ -116,6 +117,8 @@ Apps people use when taking transit.
 - [OpenTripPlanner Android](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
 - [OpenTripPlanner iOS](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
 - [Transportr](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+- [Next Train - Connecticut](https://github.com/data-creative/NextTrainCT) - A React-native mobile app for searching train schedules published by the Shore Line East transit agency in Connecticut. Relies on a deployment of the [Next Train API](https://github.com/data-creative/next-train-api).
+
 
 #### Native Apps (closed source)
 
