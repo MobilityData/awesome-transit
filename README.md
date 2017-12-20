@@ -81,7 +81,7 @@ Software that provides an API to transit data.
 Tools for transit agencies.
 
 - [Remix](http://getremix.com/) - A webapp that lets transit agencies easily plan routes.
-- [Next Train API](https://github.com/data-creative/next-train-api) - Serves any GTFS feed as a JSON API! Transit agencies and developers alike can deploy the open source code to their own Heroku server.
+- [Next Train API](https://github.com/data-creative/next-train-api) - Serves any GTFS feed as a JSON API. Transit agencies and developers alike can deploy the open source code to their own Heroku server.
 
 ### Hardware
 
