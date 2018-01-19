@@ -221,10 +221,11 @@ Converters from various static schedule formats to and from GTFS.
 - [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - A GTFS-realtime validation tool developed by the Center for Urban Transportation Research at the University of South Florida.  Also includes an integrated version of the [gtfs-validator](https://github.com/conveyal/gtfs-validator) tool.
 - [Web gtfs-realtime-validator (hosted by TransitScreen)](http://gtfsrealtimevalidator.transitscreen.com/) - A hosted version of the [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator).
 
-#### GTFS Realtime Archival Tools
+#### GTFS Realtime (and Other Real-time API) Archival Tools
 
 - [GTFS-realtime to SQL](https://github.com/TransitFeeds/GtfsRealTimeToSql) - Parses a GTFS-RealTime feed into an SQL database (used in [TransitFeeds.com](http://transitfeeds.com/))
 - [gtfsrdb](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
+- [retro-gtfs](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
 
 #### GTFS Realtime Convertors
 
