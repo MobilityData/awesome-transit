@@ -175,6 +175,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
 - [partridge](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
 - [gtfspy](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3 and SQLite.  Used by [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz).
+- [RRRR Rapid Real-time Routing](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
 
 #### GTFS Converters
 
