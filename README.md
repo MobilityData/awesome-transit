@@ -11,7 +11,7 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
 - [Getting started](#getting-started)
 - [Community](#community)
 - [Data](#data)
-- [Software for APIs](#software-to-create-APIs)
+- [Software for Creating APIs](#software-for-creating-APIs)
 - [Agency Tools](#agency-tools)
 - [Hardware](#hardware)
 - [Apps](#apps)
@@ -79,7 +79,7 @@ Places to access collections of GTFS and other transit and multimodal data
 - [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia](https://github.com/CanalTP/navitia) is the opensource engine behind the live API.
 - [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes).
 
-### Software to create APIs
+### Software for Creating APIs
 
 Software that you can set up to provide an API to transit and multimodal data.
 
