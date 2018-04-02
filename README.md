@@ -11,7 +11,7 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
 - [Getting started](#getting-started)
 - [Community](#community)
 - [Data](#data)
-- [Software for Creating APIs](#software-for-creating-APIs)
+- [Software for Creating APIs](#software-for-creating-apis)
 - [Agency Tools](#agency-tools)
 - [Hardware](#hardware)
 - [Apps](#apps)
