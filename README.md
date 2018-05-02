@@ -24,6 +24,7 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
   - [GTFS Converters](#gtfs-converters)
   - [GTFS Tools](#gtfs-tools)
   - [GTFS Validators](#gtfs-validators)
+  - [GTFS Analysis Tools](#gtfs-analysis-tools)
 - [GTFS Realtime](#gtfs-realtime)
   - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries--demo-apps)
   - [GTFS Realtime Validators](#gtfs-realtime-validators)
@@ -223,6 +224,10 @@ Converters from various static schedule formats to and from GTFS.
 - [gtfs-lib](https://github.com/conveyal/gtfs-lib/) - Conveyal's successor to gtfs-validator, a library for loading and saving GTFS feeds of arbitrary size with disk-backed storage.
 - [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
 - [Web GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) - A web-based GTFS validator that runs both [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) and [gtfs-validator](https://github.com/conveyal/gtfs-validator) on uploaded GTFS files.
+
+
+### GTFS Analysis Tools
+- [Peartree](https://github.com/kuanb/peartree) Python library for converting GTFS directed network graph for analysis.
 
 ### GTFS Realtime
 - [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime)
