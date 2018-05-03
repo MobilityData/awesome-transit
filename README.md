@@ -22,9 +22,9 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
 - [GTFS](#gtfs)
   - [GTFS Libraries](#gtfs-libraries)
   - [GTFS Converters](#gtfs-converters)
-  - [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenancetools)
-  - [GTFS Validators](#gtfs-validators)
+  - [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenance-tools)
   - [GTFS Analysis Tools](#gtfs-analysis-tools)
+   - [GTFS Validators](#gtfs-validators)
 - [GTFS Realtime](#gtfs-realtime)
   - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries--demo-apps)
   - [GTFS Realtime Validators](#gtfs-realtime-validators)
@@ -216,7 +216,7 @@ Converters from various static schedule formats to and from GTFS.
 - [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) - A workflow tool for managing large amounts of GTFS data and importing them into OpenTripPlanner.
 - [GTFS.html](https://gtfs.pleasantprogrammer.com) - An entirely browser-based tool to view GTFS feeds. Use it to view routes, stops, timetables, etc.
 
-### GTFS Analysis Tools
+#### GTFS Analysis Tools
 
 - [Peartree](https://github.com/kuanb/peartree) A Python library for converting transit data into a directed graph for network analysis.
  
