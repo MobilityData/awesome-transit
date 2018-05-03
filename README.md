@@ -22,8 +22,9 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
 - [GTFS](#gtfs)
   - [GTFS Libraries](#gtfs-libraries)
   - [GTFS Converters](#gtfs-converters)
-  - [GTFS Tools](#gtfs-tools)
+  - [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenancetools)
   - [GTFS Validators](#gtfs-validators)
+  - [GTFS Analysis Tools](#gtfs-analysis-tools)
 - [GTFS Realtime](#gtfs-realtime)
   - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries--demo-apps)
   - [GTFS Realtime Validators](#gtfs-realtime-validators)
@@ -205,7 +206,7 @@ Converters from various static schedule formats to and from GTFS.
 - [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) - Python application that attempts to assign GTFS stop_ids to [TransLoc](http://transloc.com/) IDs using [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) doesn't provide GTFS `stop_ids` in their API).
 - [Hafas2GTFS](https://github.com/geops/hafas2gtfs) - Hafas2GTFS converter written in Python, optimized for SBB HAFAS feeds.
 
-#### GTFS Tools
+#### GTFS Data Collection and Maintenance Tools
 
 - [bus-router](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor) A (self-hosted) web-based GTFS editing framework.
@@ -215,6 +216,9 @@ Converters from various static schedule formats to and from GTFS.
 - [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) - A workflow tool for managing large amounts of GTFS data and importing them into OpenTripPlanner.
 - [GTFS.html](https://gtfs.pleasantprogrammer.com) - An entirely browser-based tool to view GTFS feeds. Use it to view routes, stops, timetables, etc.
 
+### GTFS Analysis Tools
+
+- [Peartree](https://github.com/kuanb/peartree) A Python library for converting transit data into a directed graph for network analysis.
  
 #### GTFS Validators
 
@@ -224,7 +228,8 @@ Converters from various static schedule formats to and from GTFS.
 - [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
 - [Web GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) - A web-based GTFS validator that runs both [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) and [gtfs-validator](https://github.com/conveyal/gtfs-validator) on uploaded GTFS files.
 
-### GTFS Realtime
+#### GTFS Realtime
+
 - [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime)
 - [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions. 
 
