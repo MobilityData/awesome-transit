@@ -227,9 +227,11 @@ Converters from various static schedule formats to and from GTFS.
 
 
 ### GTFS Analysis Tools
-- [Peartree](https://github.com/kuanb/peartree) Python library for converting GTFS directed network graph for analysis.
+
+- [Peartree](https://github.com/kuanb/peartree) A Python library for converting transit data into a directed graph for network analysis.
 
 ### GTFS Realtime
+
 - [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime)
 - [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions. 
 
