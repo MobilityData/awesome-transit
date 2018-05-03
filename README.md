@@ -22,7 +22,7 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
 - [GTFS](#gtfs)
   - [GTFS Libraries](#gtfs-libraries)
   - [GTFS Converters](#gtfs-converters)
-  - [GTFS Tools](#gtfs-data-collection-and-maintenancetools)
+  - [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenancetools)
   - [GTFS Validators](#gtfs-validators)
   - [GTFS Analysis Tools](#gtfs-analysis-tools)
 - [GTFS Realtime](#gtfs-realtime)
