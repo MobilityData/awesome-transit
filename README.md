@@ -195,6 +195,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [gtfsman](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
 - [go gtfsparser](https://github.com/geops/gtfsparser) - A GTFS parsing library implemented in Go.
 - [Make GTFS](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information
+- [trread](https://github.com/r-gtfs/trread) - A transit (GTFS) file reader for R. 
 
 #### GTFS Converters
 
@@ -209,6 +210,7 @@ Converters from various static schedule formats to and from GTFS.
 - [osmtogtfs](https://github.com/hiposfer/osmtogtfs) - Python 3 script that exports GTFS feed from OpenStreetMap data.
 - [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) - Python application that attempts to assign GTFS stop_ids to [TransLoc](http://transloc.com/) IDs using [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) doesn't provide GTFS `stop_ids` in their API).
 - [Hafas2GTFS](https://github.com/geops/hafas2gtfs) - Hafas2GTFS converter written in Python, optimized for SBB HAFAS feeds.
+- [gtsf](https://github.com/r-gtfs/gtsf) - general transit (GTFS) simple (geographic) features (sf) in R. can be used to convert from GTFS to Shapefile, GeoJSON, and other formats through GDAL. 
 
 #### GTFS Data Collection and Maintenance Tools
 
@@ -223,6 +225,7 @@ Converters from various static schedule formats to and from GTFS.
 #### GTFS Analysis Tools
 
 - [Peartree](https://github.com/kuanb/peartree) A Python library for converting transit data into a directed graph for network analysis.
+- [bustt](https://github.com/r-gtfs/bustt) - Bus and transit time and headways for GTFS in R.
 
 #### GTFS Validators
 
