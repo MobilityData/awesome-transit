@@ -57,6 +57,7 @@ Places to ask questions and find other community resources.
   - [OneBusAway Developers mailing list](http://groups.google.com/group/onebusaway-developers)
   - [OneBusAway API mailing list](http://groups.google.com/group/onebusaway-api)
   - [OneBusAway Slack chat](https://onebusaway.herokuapp.com/)
+- [Transit Techies NYC](https://www.meetup.com/Transit-Techies-NYC/) - NYC-based meetup for those interested in this repo. [Speaker list](https://github.com/tyleragreen/transit-techies-nyc) includes many contributors to this repo.
 
 ### Data
 
