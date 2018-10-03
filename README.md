@@ -24,7 +24,8 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
   - [GTFS Converters](#gtfs-converters)
   - [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenance-tools)
   - [GTFS Analysis Tools](#gtfs-analysis-tools)
-   - [GTFS Validators](#gtfs-validators)
+  - [GTFS Timetable Publishing Tools](#gtfs-timetable-publishing-tools)
+  - [GTFS Validators](#gtfs-validators)
 - [GTFS Realtime](#gtfs-realtime)
   - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries--demo-apps)
   - [GTFS Realtime Validators](#gtfs-realtime-validators)
@@ -227,6 +228,11 @@ Converters from various static schedule formats to and from GTFS.
 
 - [Peartree](https://github.com/kuanb/peartree) A Python library for converting transit data into a directed graph for network analysis.
 - [bustt](https://github.com/r-gtfs/bustt) - Bus and transit time and headways for GTFS in R.
+
+#### GTFS Timetable Publishing Tools
+
+- [GTFS to HTML](https://github.com/BlinkTagInc/gtfs-to-html) - A creates human-readable, user-friendly transit timetables in HTML format directly from GTFS transit data. 
+- [TimeTablePublisher (TTPUB)](https://github.com/OpenTransitTools/ttpub) - A web publishing system that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
 
 #### GTFS Validators
 
