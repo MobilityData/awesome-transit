@@ -166,7 +166,7 @@ Apps people use when taking transit.
 - [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy](https://github.com/CxAalto/gtfspy).
 - [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub](https://github.com/mapnificent/mapnificent), live at https://www.mapnificent.net/.
 - [Toronto Transit Explorer](https://github.com/sidewalklabs/totx) - A Java application that visualizes transit, biking and walking accessibility across the city of Toronto. Live version hosted [here](https://totx.sidewalklabs.com/). Uses a modified version of [R5](https://github.com/conveyal/r5) for routing.
-
+- [fastest-bus-analysis-in-the-west](https://github.com/vta/fastest-bus-analysis-in-the-west) - A python Pandas script that combines Ridership/APC, Swiftly speed and dwell data, and bus stop inventory, GTFS, and geospatial creating a stop by stop time filterable dataset.  The dataset is then visualized in [Tableau](https://public.tableau.com/profile/vivek7797#!/vizhome/stopsandspeedanalyses/Story1) for the purpose of helping to find places to make VTA's bus and rail network faster and more reliable.
 ### GTFS
 
 - [GTFS Spec](https://developers.google.com/transit/gtfs/) - Specification for the General Transit Data Feed, or GTFS. Also available in [Español](https://developers.google.com/transit/gtfs/?hl=es), [Français](https://developers.google.com/transit/gtfs/?hl=fr).
