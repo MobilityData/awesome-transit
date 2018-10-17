@@ -227,7 +227,7 @@ Converters from various static schedule formats to and from GTFS.
 #### GTFS Analysis Tools
 
 - [Peartree](https://github.com/kuanb/peartree) A Python library for converting transit data into a directed graph for network analysis.
-- [bustt](https://github.com/r-gtfs/bustt) - Bus and transit time and headways for GTFS in R.
+- [bustt](https://github.com/r-transit/tidytransit) - Bus and transit time and headways for GTFS in R.
 
 #### GTFS Timetable Publishing Tools
 
