@@ -226,9 +226,10 @@ Converters from various static schedule formats to and from GTFS.
 
 #### GTFS Analysis Tools
 
-- [Peartree](https://github.com/kuanb/peartree) A Python library for converting transit data into a directed graph for network analysis.
-- [bustt](https://github.com/r-transit/tidytransit) - Bus and transit time and headways for GTFS in R.
-- [transitr] (https://github.com/tmelliott/transitr) - Another R package being developed.
+- [Peartree](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+- [gtfsr](https://github.com/ropensci/gtfsr) - An R package for easily importing, validating, and mapping transit data that follows the General Transit Feed Specification (GTFS) format.
+- [tidytransit](https://github.com/r-transit/tidytransit) (formerly [bustt](https://github.com/r-transit/bustt)) - Reads GTFS data into tidyverse and simple features dataframes to map transit stops and routes, calculate transit frequencies, and validate transit feeds.  tidytransit is a [fork](https://en.wikipedia.org/wiki/Fork_\(software_development\)) of [gtfsr](https://github.com/ropensci/gtfsr), published to [CRAN](https://cran.r-project.org/), with frequency/headway calculation functions. 
+- [transitr](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
 
 #### GTFS Timetable Publishing Tools
 
