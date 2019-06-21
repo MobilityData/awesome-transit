@@ -205,6 +205,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [go gtfsparser](https://github.com/geops/gtfsparser) - A GTFS parsing library implemented in Go.
 - [Make GTFS](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information
 - [trread](https://github.com/r-gtfs/trread) - A transit (GTFS) file reader for R. 
+- [ESRI public-transit-tools](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
 
 #### GTFS Converters
 
