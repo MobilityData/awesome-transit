@@ -147,6 +147,7 @@ Apps people use when taking transit.
 - [OpenTripPlanner iOS](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
 - [Transportr](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 - [Offi Directions](https://gitlab.com/oeffi/oeffi) - An Android app that provides trip planning, schedules, live departure times, and disruption information for transport authorities in Europe and beyond.
+- [Trufi App](https://github.com/trufi-association/trufi-app) A cross-platform Flutter app that uses [OpenTripPlanner](http://www.opentripplanner.org/)
 
 #### Native Apps (closed source)
 
