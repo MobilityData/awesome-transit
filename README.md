@@ -73,8 +73,9 @@ Places to access collections of GTFS and other transit and multimodal data
 #### Transit agency data archives
 - [CapMetrics](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd](https://github.com/scascketta/capmetricsd), a Go daemon.
 
-#### U.S. Federal Government
-- [National Transit Database](https://www.transit.dot.gov/ntd) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
+#### National government datasets
+- [National Transit Database (USA)](https://www.transit.dot.gov/ntd) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
+- [Transport (France)](https://transport.data.gouv.fr/) - GTFS datasets for French transit systems.
 
 #### Proprietary (non-standard) vendor APIs
 - [Transport API](https://www.transportapi.com/) - REST API for aggregated transit data for the United Kingdom.  Fee-based access.
