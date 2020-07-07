@@ -196,6 +196,9 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [CGTFS](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
 - [RRRR Rapid Real-time Routing](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
 
+#### C++
+-  [just_gtfs](https://github.com/mapsme/just_gtfs) - C++17 header-only library for reading and writing GTFS. It is used in the [MAPS.ME](https://github.com/mapsme/omim) cross-platform offline maps project. Main features: fast reading and writing of GTFS feeds; support for [extended GTFS route types;](https://developers.google.com/transit/gtfs/reference/extended-route-types) simple working with GTFS Date and Time formats.
+
 #### C#
 - [ESRI public-transit-tools](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
 - [GTFS Feed Parser](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
