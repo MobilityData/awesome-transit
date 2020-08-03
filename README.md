@@ -88,6 +88,7 @@ Places to access collections of GTFS and other transit and multimodal data
 
 #### Crowdsourced transit data
 - [Citylines.co](https://www.citylines.co) - A collaborative platform for mapping transit systems and their evolution. The data can be downloaded as GeoJSON or CSV from [citylines.co/data](https://www.citylines.co/data).
+- [OpenStreetMap (OSM)](https://www.openstreetmap.org) - The collaborative platform for mapping the world, including transport, transit, and routing data.
 
 ### Software for Creating APIs
 
