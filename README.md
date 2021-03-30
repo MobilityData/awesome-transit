@@ -16,7 +16,7 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
 - [Hardware](#hardware)
 - [Apps](#apps)
   - [Web Apps (open source)](#web-apps-open-source)
-  - [Web Apps](#web-apps)
+  - [Web Apps (closed source)](#web-apps)
   - [Native Apps (open source)](#native-apps-open-source)
   - [Native Apps (closed source)](#native-apps-closed-source)
 - [Visualizations](#visualizations)
