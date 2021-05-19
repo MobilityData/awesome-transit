@@ -177,6 +177,7 @@ Apps people use when taking transit.
 - [Tiramisu Transit](http://www.tiramisutransit.com/)
 - [TransLoc Rider](http://translocrider.com/) - Real-time transit maps for over 100 transit systems.
 - [Transit Display](http://transitdisplay.com/) - Multimodal and real-time transit display software.
+- [Ualabee](https://ualabee.com/company/) - Community driven trip planner with focus on user interaction, users can report anomalies, upload pictures, edit transit data and chat with other passengers.
 
 ### Visualizations
 
