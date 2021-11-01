@@ -53,6 +53,7 @@ If this is your first time dealing with transit data, you might find these links
 
 Places to ask questions and find other community resources.
 
+- [German Open Transport Meetup](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) meetup of the German-speaking open transport community.
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) Community
   - [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
   - [OpenTripPlanner Developers mailing list](https://groups.google.com/forum/#!forum/opentripplanner-dev)
