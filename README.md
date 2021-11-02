@@ -53,6 +53,9 @@ If this is your first time dealing with transit data, you might find these links
 
 Places to ask questions and find other community resources.
 
+- [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) Community
+  - [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
+  - [OpenTripPlanner Developers mailing list](https://groups.google.com/forum/#!forum/opentripplanner-dev)
 - [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
 - [MobilityData Slack chat](https://mobilitydata-io.herokuapp.com/)
 - [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
