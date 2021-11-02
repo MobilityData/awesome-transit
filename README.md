@@ -222,7 +222,6 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [Go GTFS Parser](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go.
 
 #### Java
-- [GTFS to SQL](https://github.com/OpenMobilityData/GtfsToSql) - Parses a GTFS feed into an SQL database (used in [OpenMobilityData](https://openmobilitydata.org/)).
 - [OneBusAway GTFS Modules](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
 - [R5: Rapid Realistic Routing on Real-world and Reimagined networks](https://github.com/conveyal/r5) - A Java-based routing engine for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for analytics purposes, but may eventually support point-to-point journey planning.
 - [SQL to GTFS](https://github.com/OpenMobilityData/SqlToGtfs) - Convert an SQLite file generated with "GtfsToSql" back to a zipped GTFS file.
