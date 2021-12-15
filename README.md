@@ -19,6 +19,7 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
   - [Web Apps (closed source)](#web-apps-closed-source)
   - [Native Apps (open source)](#native-apps-open-source)
   - [Native Apps (closed source)](#native-apps-closed-source)
+  - [SDKs](#sdks)
 - [Visualizations](#visualizations)
 - [GTFS](#gtfs)
   - [GTFS Libraries](#gtfs-libraries)
@@ -91,6 +92,7 @@ Places to access collections of GTFS and other transit and multimodal data
 - [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isocrhons and lot more on US and EU. [Navitia](https://github.com/CanalTP/navitia) is the opensource engine behind the live API.
 - [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes).
 - [HAFAS](https://de.wikipedia.org/wiki/HAFAS) – Propriety public transport management software by [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
+- [Citymapper API](https://docs.external.citymapper.com/api/) - REST API for transit journey planning, realtime transit data and walk, cycle, scooter travel times.
 
 #### Crowdsourced transit data
 - [Citylines.co](https://www.citylines.co) - A collaborative platform for mapping transit systems, with an emphasis on their historical evolution. The data can be downloaded as GeoJSON or CSV from [citylines.co/data](https://www.citylines.co/data).
@@ -185,6 +187,9 @@ Apps people use when taking transit.
 - [TransLoc Rider](http://translocrider.com/) - Real-time transit maps for over 100 transit systems.
 - [Transit Display](http://transitdisplay.com/) - Multimodal and real-time transit display software.
 - [Ualabee](https://ualabee.com/company/) - Community driven trip planner with focus on user interaction, users can report anomalies, upload pictures, edit transit data and chat with other passengers.
+
+#### SDKs
+- [Citymapper SDK](https://citymapper.com/powers) - Add journey planning and turn-by-turn navigation for all urban mobility into native iOS and Android apps
 
 ### Visualizations
 
