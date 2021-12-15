@@ -189,7 +189,7 @@ Apps people use when taking transit.
 - [Ualabee](https://ualabee.com/company/) - Community driven trip planner with focus on user interaction, users can report anomalies, upload pictures, edit transit data and chat with other passengers.
 
 ### SDKs
-- [Citymapper SDK](https://citymapper.com/powers) - Add journey planning and turn-by-turn navigation for all urban mobility into native iOS and Android apps
+- [Citymapper SDK](https://citymapper.com/powers) - Allows you to add journey planning and turn-by-turn navigation for walking, cycling, scooting and transit into native iOS and Android apps.
 
 ### Visualizations
 
