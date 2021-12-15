@@ -19,7 +19,7 @@ Have something to add or change? Open a [pull request](https://github.com/CUTR-a
   - [Web Apps (closed source)](#web-apps-closed-source)
   - [Native Apps (open source)](#native-apps-open-source)
   - [Native Apps (closed source)](#native-apps-closed-source)
-  - [SDKs](#sdks)
+- [SDKs](#sdks)
 - [Visualizations](#visualizations)
 - [GTFS](#gtfs)
   - [GTFS Libraries](#gtfs-libraries)
@@ -188,7 +188,7 @@ Apps people use when taking transit.
 - [Transit Display](http://transitdisplay.com/) - Multimodal and real-time transit display software.
 - [Ualabee](https://ualabee.com/company/) - Community driven trip planner with focus on user interaction, users can report anomalies, upload pictures, edit transit data and chat with other passengers.
 
-#### SDKs
+### SDKs
 - [Citymapper SDK](https://citymapper.com/powers) - Add journey planning and turn-by-turn navigation for all urban mobility into native iOS and Android apps
 
 ### Visualizations
