@@ -99,6 +99,9 @@ Places to access collections of GTFS and other transit and multimodal data
 - [OpenStreetMap (OSM)](https://www.openstreetmap.org) - The collaborative platform for mapping the world, including transport, transit, and routing data.
 - [GTFS-Hub](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
 
+#### Sample GTFS datasets used for software testing
+- [sample-gtfs-feed](https://github.com/public-transport/sample-gtfs-feed) - An imaginary GTFS data set used for testing.
+
 ### Software for Creating APIs
 
 Software that you can set up to provide an API to transit and multimodal data.
