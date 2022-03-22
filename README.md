@@ -101,6 +101,7 @@ Places to access collections of GTFS and other transit and multimodal data
 
 #### Sample GTFS datasets used for software testing
 - [sample-gtfs-feed](https://github.com/public-transport/sample-gtfs-feed) - An imaginary GTFS data set used for testing.
+- [transitfeed](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator](https://github.com/google/transitfeed/wiki/FeedValidator).
 
 ### Software for Creating APIs
 
