@@ -101,7 +101,7 @@ Places to access collections of GTFS and other transit and multimodal data
 
 #### Sample GTFS and GTFS Realtime datasets used for software testing
 - [sample-gtfs-feed](https://github.com/public-transport/sample-gtfs-feed) - An imaginary GTFS data set used for testing.
-- [transitfeed](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator](https://github.com/google/transitfeed/wiki/FeedValidator).
+- [transitfeed unit tests](https://github.com/google/transitfeed/tree/master/tests/data) - Test data created for the original Google [Python GTFS validator](https://github.com/google/transitfeed/wiki/FeedValidator).
 - [Transitland GTFS and GTFS Realtime unit tests](https://github.com/interline-io/transitland-lib) - For testing the [transitland-lib](https://github.com/interline-io/transitland-lib) library that handles GTFS and GTFS Realtime parsing and validation for Transitland:
     - [GTFS - "bad entities" at the single row level](https://github.com/interline-io/transitland-lib/tree/master/test/data/bad-entities)
     - [GTFS - validation errors that that involve entities in one or more files](https://github.com/interline-io/transitland-lib/tree/master/test/data/validator/errors)
