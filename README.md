@@ -368,7 +368,7 @@ Converters from various static schedule formats to and from GTFS.
 
 #### GTFS Realtime Validators
 
-- [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - A GTFS-realtime validation tool developed by the Center for Urban Transportation Research at the University of South Florida.  Also includes an integrated version of the [gtfs-validator](https://github.com/conveyal/gtfs-validator) tool.
+- [gtfs-realtime-validator](https://github.com/MobilityData/gtfs-realtime-validator) - A GTFS Realtime validation tool originally developed by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](https://www.usf.edu/) and now maintained by [MobilityData](https://mobilitydata.org/).
 
 #### GTFS Realtime (and Other Real-time API) Archival Tools
 
