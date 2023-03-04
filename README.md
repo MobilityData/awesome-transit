@@ -276,6 +276,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [transit_service_analyst](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
 
 ##### R
+- [gtfsio](https://github.com/r-transit/gtfsio) - Fast and flexible functions to read and write GTFS in R.
 - [trread](https://github.com/r-gtfs/trread) - A transit (GTFS) file reader for R. 
 
 ##### Ruby
