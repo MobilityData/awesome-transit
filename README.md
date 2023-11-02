@@ -333,6 +333,7 @@ Converters from various static schedule formats to and from GTFS.
 - [GTFS Kit](https://github.com/mrcagney/gtfs_kit) - A Python 3.8+ tool kit for analyzing and merging General Transit Feed Specification (GTFS) data. [Info on how to aggregate and clean feeds provided here](https://mrcagney.github.io/gtfs_kit_docs/index.html#module-gtfs_kit.cleaners).
 - [onebusaway-gtfs-merge-cli](http://developer.onebusaway.org/modules/onebusaway-gtfs-modules/1.3.94/onebusaway-gtfs-merge-cli.html) - A command line tool for merging GTFS feeds. Info provided at the link on how the tool detects and merges duplicate IDs.
 - [Transitfeed merge function](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
+- [gtfsmerge](https://github.com/now8-org/gtfsmerge) - A Python Script to merge GTFS ZIP archives into one.
 
 #### GTFS Analysis Tools
 
