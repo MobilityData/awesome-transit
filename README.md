@@ -258,7 +258,7 @@ Apps people use when taking transit.
  - [National Rail Network Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=96ec03e4fc8546bd8a864e39a2c3fc41) - This map shows the extent and ownership of rail lines in the United States, including passenger and freight lines.
  - [Ferrocarta](https://ferrocarta.net/) - A series of maps covering all of the passenger rail networks in Brazil, Canada and France.
  - [Train Lookout](https://trainlookout.com/) - A tool to easily Log, map and share your journeys by train.
- - [Australian Rail Maps](http://www.railmaps.com.au/) -   Detailed Australian railway maps from the national,state and city levels.
+ - [Australian Rail Maps](http://www.railmaps.com.au/) -   Detailed Australian railway maps from the national, state and city levels.
  - [Steam Engine "IS"](https://parovoz.com/maps/supermap/) - Maps of railways in the USSR.
  - [Carto.Metro](https://cartometro.com/) - Detailed maps of metro and tram networks of global cities (especially in France).
  - [Railway Stations](https://map.railway-stations.org/) - Photos of Railway Stations across the world.
