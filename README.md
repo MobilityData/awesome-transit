@@ -265,8 +265,11 @@ Apps people use when taking transit.
  - [INAT](https://www.inat.fr/maps/) - Aesthetically pleasing static maps of worldwide metros systems.
  - [Transit Maps](https://transitmap.net/) - Critiques and reviews of the design of transit maps from across the world.
  - [Transit Explorer](https://www.thetransportpolitic.com/transitexplorer/) - A map containing fixed-guideway transit around the world.
-- [Britsh Railways](https://www.merrittcartographic.co.uk/british_railways.html) An interactive map of Great Britain's rail network. 
- - [TransitLand Map](https://www.transit.land/map)  - Worldwide map of transit services with a GTFS Feed.
+- [Britsh Railways](https://www.merrittcartographic.co.uk/british_railways.html) An interactive map of Great Britain's rail network.
+- [TransitLand Map](https://www.transit.land/map)  - Worldwide map of transit services (which have a GTFS Feed).
+ - [DB InfraGO](https://geovdbn.deutschebahn.com/pgv/public/map/isr.xhtml)  - Interactive Map of German Rail infrastructure.
+ - [SNCF Carte interactive](https://www.sncf-reseau.com/fr/carte/carte-interactive-reseau-ferre-francais-0) - Interactive Map of French Rail infrastructure.
+ - [Project Mapping](https://www.projectmapping.co.uk/index.html) - Schematic maps of UK and worldwide rail networks.
  - 
 ### GTFS
 
