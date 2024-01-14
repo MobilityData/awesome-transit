@@ -229,17 +229,17 @@ Apps people use when taking transit.
 - [Brand New Subway](http://jpwright.net/subway/) - An interactive transportation planning game that lets players alter the NYC subway system to their heart's content.
 - [BENO Metro Mapm Creator](https://beno.uk/metromapcreator/#) - A very old fashioned but classic transit map creator.
 - [Tennessine Metro Designer](https://tennessine.co.uk/metro/) - A modern and aesthetically pleasing transit map designer.
-- [Metro Map Maker](https://metromapmaker.com/)   - An open source and simple metro map maker software
-- [Metro Dreamin](https://metrodreamin.com/explore ) - A modern open source sofware that allows users to create, save, like and share and create interactive transit maps with agents 
-- [Rail Map Generators](https://wongchito.github.io/RailMapGenerator) - Tool for generating railway maps and information panels in the styles of various cities' public transportation systems
+- [Metro Map Maker](https://metromapmaker.com/)   - An open source and simple metro map maker software.
+- [Metro Dreamin](https://metrodreamin.com/explore ) - A modern open source sofware that allows users to create, save, like and share and create interactive transit maps with agents. 
+- [Rail Map Generators](https://wongchito.github.io/RailMapGenerator) - Tool for generating railway maps and information panels in the styles of various cities' public transportation systems.
 - [MetroSets](https://metrosets.ac.tuwien.ac.at/) - A flexible web tool to visualize set systems using the metro map metaphor. Based on this [paper](https://www.computer.org/csdl/journal/tg/2021/02/09224192/1nV7Me0F3Lq)
 ##### Most General drawing applications are also useful for transit map drawing, including but not limited to:
-- [Adobe illustrator](https://www.adobe.com/ca/products/illustrator.html) - The industry-leading vector graphics software (requres membership plan)
-- [Inkscape](https://inkscape.org/) - A free desgn tool similar to Adobe Illustrator
+- [Adobe illustrator](https://www.adobe.com/ca/products/illustrator.html) - The industry-leading vector graphics software (requres membership plan).
+- [Inkscape](https://inkscape.org/) - A free desgn tool similar to Adobe Illustrator.
 ##### Most general GIS ( are also useful for transit map drawing, including but not limited to:
  - [Felt](https://felt.com/) - An aestically pleasing Modern GIS software.
  - [Google Mymaps](https://www.google.ca/maps/about/mymaps/) - Create and share custom maps with Google My Maps.
- - [Google Earth](https://www.google.com/earth/about/) - Create and share custom maps with one of the the world's most detailed statelite applications
+ - [Google Earth](https://www.google.com/earth/about/) - Create and share custom maps with one of the the world's most detailed statelite applications.
 
 #### Transit Map Aggregation
  - [UrbanRail.Net](http://www.urbanrail.net/) - Worldwide reference map of urban rail transport (metros,trams,commuter rail) with detailed and up-to-date information.
@@ -247,23 +247,27 @@ Apps people use when taking transit.
  - [AllRailMap](https://www.allrailmap.com/) - Another worldwide map of railways using OpenStreetMap data.
  - [European Railway Atlas](https://europeanrailwayatlas.com/) -  A reference book of European railway maps that is available for purchase.
  - [Rail Transit Maps](http://www-personal.umich.edu/~yopopov/rrt/railroadmaps/) - A collection of railway maps covering Europe (especially Russia).
- - [Tramscale](https://alexander.co.tz/tramscale/) - Website outlining maps showing the scales of tram systems around the world
- - [Timelines](https://alexander.co.tz/timelines/) - Compare the timelines of Rapid Transit Projects around the world
- - [Metrolinemap](https://www.metrolinemap.com/) - Interactive Maps of the world's Metro systems
- - [Metrocyclopaedia](https://blog.csaladen.es/metro/ ) - 3d maps of metro systems across the world (uses data from Metrolinemap)
- - [RailFansCanada](https://map.railfans.ca/) - Interactive System Map detailing the  the present and future of different urban rail systems in Canada
+ - [Tramscale](https://alexander.co.tz/tramscale/) - Website outlining maps showing the scales of tram systems around the world.
+ - [Timelines](https://alexander.co.tz/timelines/) - Compare the timelines of Rapid Transit Projects around the world.
+ - [Metrolinemap](https://www.metrolinemap.com/) - Interactive Maps of the world's Metro systems.
+ - [Metrocyclopaedia](https://blog.csaladen.es/metro/ ) - 3d maps of metro systems across the world (uses data from Metrolinemap).
+ - [RailFansCanada](https://map.railfans.ca/) - Interactive System Map detailing the  the present and future of different urban rail systems in Canada.
  - [North American Transit](https://www.google.com/maps/d/u/0/viewer?mid=1GAXiiEp8a62LvZNDueYN76NPTCoUxvdx&ll=43.71257881237152%2C-79.385523993394&z=11) - Map of all Passenger Rail in North America including (intercity rail, metros, trams and tourist lines)
  - [Intercity Rail map](https://asm.transitdocs.com/) - Map of the real time location and schedule information for  Amtrak and Via trains
  - [Indian Railways Map](https://indiarailinfo.com/atlas) - Interactive Maps of the Indian Main rail network.
  - [National Rail Network Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=96ec03e4fc8546bd8a864e39a2c3fc41) - This map shows the extent and ownership of rail lines in the United States, including passenger and freight lines.
- - [Ferrocarta](https://ferrocarta.net/) - A series of maps covering all of the passenger rail networks in Brazil, Canada and France.[Train Lookout](https://trainlookout.com/) - A tool to easily Log, map and share your journeys by train
+ - [Ferrocarta](https://ferrocarta.net/) - A series of maps covering all of the passenger rail networks in Brazil, Canada and France.
+ - [Train Lookout](https://trainlookout.com/) - A tool to easily Log, map and share your journeys by train.
  - [Australian Rail Maps](http://www.railmaps.com.au/) -   Detailed Australian railway maps from the national,state and city levels.
  - [Steam Engine "IS"](https://parovoz.com/maps/supermap/) - Maps of railways in the USSR.
- - [Carto.Metro](https://cartometro.com/) - Detailed maps of metro and tram networks of global cities (especially in France).[Railway Stations](https://map.railway-stations.org/) - Photos of Railway Stations across the world
- - [INAT](https://www.inat.fr/maps/) - Aesthetically pleasing static maps of worldwide metros systems[Transit Maps](https://transitmap.net/) - Critiques and reviews of the design of transit maps from across the world.
+ - [Carto.Metro](https://cartometro.com/) - Detailed maps of metro and tram networks of global cities (especially in France).
+ - [Railway Stations](https://map.railway-stations.org/) - Photos of Railway Stations across the world.
+ - [INAT](https://www.inat.fr/maps/) - Aesthetically pleasing static maps of worldwide metros systems.
+ - [Transit Maps](https://transitmap.net/) - Critiques and reviews of the design of transit maps from across the world.
  - [Transit Explorer](https://www.thetransportpolitic.com/transitexplorer/) - A map containing fixed-guideway transit around the world.
-- [Britsh Railways](https://www.merrittcartographic.co.uk/british_railways.html) An interactive map of Great Britain's rail network 
-
+- [Britsh Railways](https://www.merrittcartographic.co.uk/british_railways.html) An interactive map of Great Britain's rail network. 
+ - [TransitLand Map](https://www.transit.land/map)  - Worldwide map of transit services with a GTFS Feed.
+ - 
 ### GTFS
 
 - [GTFS Spec](https://gtfs.org/schedule/reference/) - Specification for the General Transit Data Feed, or GTFS. Available in several languages.
