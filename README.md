@@ -227,6 +227,12 @@ Apps people use when taking transit.
 - [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
 #### Transit Map Creation
 - [Brand New Subway](http://jpwright.net/subway/) - An interactive transportation planning game that lets players alter the NYC subway system to their heart's content.
+- [BENO Metro Mapm Creator](https://beno.uk/metromapcreator/#) - A very old fashioned - but classic transit map creator.
+- [Tennessine Metro Designer](https://tennessine.co.uk/metro/) - A modern and aesthetically pleasing transit map designer.
+- [Metro Map Maker](https://metromapmaker.com/)   - An open source and simple metro map maker software
+- [Metro Dreamin](https://metrodreamin.com/explore ) - A a modern open source sofware that allows users to create, save, like and share and create interactive transit maps with agents 
+- [Rail Map Generators](https://wongchito.github.io/RailMapGenerator) - Tool for generating railway maps and information panels in the styles of various cities' public transportation systems
+- [MetroSets](https://metrosets.ac.tuwien.ac.at/) - a flexible web tool to visualize set systems using the metro map metaphor. Based on this [paper](https://www.computer.org/csdl/journal/tg/2021/02/09224192/1nV7Me0F3Lq)
 
 #### Transit Map Aggregation
 
