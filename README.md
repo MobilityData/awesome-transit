@@ -226,17 +226,18 @@ Apps people use when taking transit.
 - [Traze](https://traze.app/) by [Veridict](https://www.veridict.com) - Visualization of public transport vehicles from all over the world. Collaborate with other users to get real-time updates even when it is not available from the agency. Based on a number of sources, including GTFS and GTFS-RT. (Previously known as [Livemap24](https://www.livemap24.com)). 
 - [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
 #### Transit Map Creation
-- [Brand New Subway](http://jpwright.net/subway/) - An interactive transportation planning game that lets players alter the NYC subway system to their heart's content.
+- [Brand New Subway](https://jpwright.github.io/subway/) - An interactive transportation planning game that lets players alter the NYC subway system to their heart's content.
 - [BENO Metro Mapm Creator](https://beno.uk/metromapcreator/#) - A very old fashioned but classic transit map creator.
 - [Tennessine Metro Designer](https://tennessine.co.uk/metro/) - A modern and aesthetically pleasing transit map designer.
 - [Metro Map Maker](https://metromapmaker.com/)   - An open source and simple metro map maker software.
 - [Metro Dreamin](https://metrodreamin.com/explore ) - A modern open source sofware that allows users to create, save, like and share and create interactive transit maps with agents. 
 - [Rail Map Generators](https://wongchito.github.io/RailMapGenerator) - Tool for generating railway maps and information panels in the styles of various cities' public transportation systems.
 - [MetroSets](https://metrosets.ac.tuwien.ac.at/) - A flexible web tool to visualize set systems using the metro map metaphor. Based on this [paper](https://www.computer.org/csdl/journal/tg/2021/02/09224192/1nV7Me0F3Lq)
-##### Most General drawing applications are also useful for transit map drawing, including but not limited to:
+##### General Drawing Applications for making transit visualizations
+
 - [Adobe illustrator](https://www.adobe.com/ca/products/illustrator.html) - The industry-leading vector graphics software (requres membership plan).
 - [Inkscape](https://inkscape.org/) - A free desgn tool similar to Adobe Illustrator.
-##### Most general GIS ( are also useful for transit map drawing, including but not limited to:
+##### General GIS Applications for making transit visualizations
  - [Felt](https://felt.com/) - An aestically pleasing Modern GIS software.
  - [Google Mymaps](https://www.google.ca/maps/about/mymaps/) - Create and share custom maps with Google My Maps.
  - [Google Earth](https://www.google.com/earth/about/) - Create and share custom maps with one of the the world's most detailed statelite applications.
@@ -275,7 +276,7 @@ Apps people use when taking transit.
  - [The Rail Map](https://www.therailmap.com/) - An Interactive Map with Train lines in North America using data from OpenStreetMap.
  - [JR pass](https://www.jrpass.com/map#) - Interactive Map of Mainline Rail in Japan.
  - [Belgian Train Map](https://trainmap.belgiantrain.be/) -  The Train Map shows realtime information about SNCB trains on the network such as their position on a map of Belgium.
- - 
+   
 ### GTFS
 
 - [GTFS Spec](https://gtfs.org/schedule/reference/) - Specification for the General Transit Data Feed, or GTFS. Available in several languages.
