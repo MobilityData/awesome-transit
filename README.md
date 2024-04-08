@@ -40,7 +40,7 @@ Have something to add or change? Open a [pull request](https://github.com/Mobili
 - [Other multimodal data formats](#other-multimodal-data-formats)
 - [Resources](#resources)
 
-### Refernece resources
+### Reference resources
 
 - [GTFS.org](https://gtfs.org) official documentation site for the General Transit Feed Specification. Includes additional GTFS resources.
 - [Google Transit Developers](https://developers.google.com/transit/gtfs/) additional Google-specific documentation of GTFS.
