@@ -237,7 +237,7 @@ Apps people use when taking transit.
 - [BENO Metro Mapm Creator](https://beno.uk/metromapcreator/#) - A very old fashioned but classic transit map creator.
 - [Tennessine Metro Designer](https://tennessine.co.uk/metro/) - A modern and aesthetically pleasing transit map designer.
 - [Metro Map Maker](https://metromapmaker.com/)   - An open source and simple metro map maker software.
-- [Metro Dreamin](https://metrodreamin.com/explore ) - A modern open source sofware that allows users to create, save, like and share and create interactive transit maps with agents. 
+- [MetroDreamin'](https://metrodreamin.com/explore) - A modern, open source software that allows users to create, save, like, and share interactive transit maps with agents.
 - [Rail Map Generators](https://wongchito.github.io/RailMapGenerator) - Tool for generating railway maps and information panels in the styles of various cities' public transportation systems.
 - [MetroSets](https://metrosets.ac.tuwien.ac.at/) - A flexible web tool to visualize set systems using the metro map metaphor. Based on this [paper](https://www.computer.org/csdl/journal/tg/2021/02/09224192/1nV7Me0F3Lq)
 ##### General Drawing Applications for making transit visualizations
