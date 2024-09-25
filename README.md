@@ -224,8 +224,8 @@ Apps people use when taking transit.
 - [MOTIS](https://motis-project.de/) - Intermodal Mobility Information System including [visualization](https://europe.motis-project.de/)
 - [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) - Frequency visualization of subways and buses in New York City built using [Transitland](https://transit.land/).
 - [SEPTA Rail OTP Report](https://apps.phor.net/septa/) - An online on-time performance reporing & drill down tool using GTFS.
-- [Simple Transit Map](https://transit.chat/simple-transit-map) - An online exmple of how to host and update a webmap with your gtfs [on Github](https://github.com/ioTransit/simple-transit-map)
-- [Simple Transit Site](https://transit.chat/simple-transit-site) - An online exmple of how to create a transit website all from your gtfs [on Github](https://github.com/ioTransit/simple-transit-site)
+- [Simple Transit Map](https://transit.chat/simple-transit-map) - An online example of how to host and update a webmap with your gtfs [on Github](https://github.com/ioTransit/simple-transit-map)
+- [Simple Transit Site](https://transit.chat/simple-transit-site) - An online example of how to create a transit website all from your gtfs [on Github](https://github.com/ioTransit/simple-transit-site)
 - [TNExT](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
 - [Toronto Transit Explorer](https://github.com/sidewalklabs/totx) - A Java application that visualizes transit, biking and walking accessibility across the city of Toronto. Live version hosted [here](https://totx.sidewalklabs.com/). Uses a modified version of [R5](https://github.com/conveyal/r5) for routing.
 - [Transit Vis](https://github.com/zackAemmer/transit_vis) - A visualization tool to display performance metrics derived from the King County Metro GTFS-RT feed (OneBusAway API). Viewable [here](https://www.transitvis.com/). Used for [this paper](https://link.springer.com/article/10.1007/s12469-022-00291-7).
