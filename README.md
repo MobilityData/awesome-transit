@@ -1,7 +1,6 @@
 # awesome-transit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/CUTR-at-USF/awesome-transit/commits/master.atom)
 
-##### Community list of transit APIs, apps, datasets, research, and software
-:bus::star2::train::star2::steam_locomotive:
+##### Community list of data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
 
 Have something to add or change? Open a [pull request](https://github.com/MobilityData/awesome-transit/pulls) or [issue](https://github.com/MobilityData/awesome-transit/issues) at [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit).
 
@@ -40,7 +39,7 @@ Have something to add or change? Open a [pull request](https://github.com/Mobili
 - [Other multimodal data formats](#other-multimodal-data-formats)
 - [Resources](#resources)
 
-### Reference resources
+### GTFS Reference resources
 
 - [GTFS.org](https://gtfs.org) official documentation site for the General Transit Feed Specification.
 
@@ -65,7 +64,7 @@ Have something to add or change? Open a [pull request](https://github.com/Mobili
 
 Places to ask questions and find other community resources.
 
-- [MobilityData Slack chat](https://share.mobilitydata.org/slack)
+- [MobilityData Slack chat](https://share.mobilitydata.org/slack) - Chatroom that includes channels #gtfs, #gtfs-validators #mobility-database  #gtfs-realtime #gtfs_best-practices #gtfs-pathways #gtfs-fares #gtfs-flex #trb-transit-data.
 - [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) Community
     - [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
@@ -78,8 +77,8 @@ Places to ask questions and find other community resources.
 - [Transitous](https://transitous.org) - Community-run free and open public transport routing service.
 
 #### Local and regional groups
-- [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup for those interested in this repo. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
-- [German Open Transport Meetup](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
+- [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
+- [German Open Transport Meetup](https://github.com/transportkollektiv/meetup/wiki) - [Biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
 - [German Open Transport Data Quality Meetup](https://github.com/transportkollektiv/meetup/wiki) - Bimonthly online meetup of the German-speaking open transport community dedicated to data quality.
 
 ### Data
