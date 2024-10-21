@@ -364,7 +364,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 
 Converters from various static schedule formats to and from GTFS.
 
-- [Chouette](https://github.com/enroute-mobi/chouette-core) - Converts French-Transmodel, SIRI, NETeX.
+- [Chouette](https://github.com/enroute-mobi/chouette-core) - Converts between French-Transmodel [NeTEX](https://transmodel-cen.eu/index.php/netex/) and GTFS.
 - [extract-gtfs-pathways](https://github.com/derhuerst/extract-gtfs-pathways) – Command-line tool to extract pathways as GeoJSON from a GTFS dataset.
 - [extract-gtfs-shapes](https://github.com/derhuerst/extract-gtfs-shapes) – Command-line tool to extract shapes as GeoJSON from a GTFS dataset.
 - [GTFS-OSM-Sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
