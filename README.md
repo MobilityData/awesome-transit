@@ -17,7 +17,7 @@ Have something to add or change? Open a [pull request](https://github.com/Mobili
 
 ### Table of Contents
 
-- [Getting started](#gtfs-reference-resources)
+- [GTFS Reference resources](#gtfs-reference-resources)
 - [Community](#community)
 - [Data](#data)
 - [Software for Creating APIs](#software-for-creating-apis)
