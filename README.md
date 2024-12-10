@@ -99,6 +99,7 @@ Places to access collections of GTFS and other transit and multimodal data
 
 #### Transit agency data archives
 - [CapMetrics](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd](https://github.com/scascketta/capmetricsd), a Go daemon.
+- [Bus Observatory API](https://api.busobservatory.org/) - Public archive of real-time data on vehicle movements and status, collected from transit systems around the world.
 
 #### National government datasets
 - [National Transit Database (USA)](https://www.transit.dot.gov/ntd) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
