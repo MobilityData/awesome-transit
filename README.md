@@ -365,6 +365,9 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 ##### Ruby
 - [GTFS-viz](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map](https://github.com/vasile/transit-map) web application)
 
+##### Rust
+- [gtfs-structure](https://github.com/rust-transit/gtfs-structure) - This crates provides GTFS structures and helpers to read GTFS archives.
+
 #### GTFS Converters
 
 Converters from various static schedule formats to and from GTFS.
