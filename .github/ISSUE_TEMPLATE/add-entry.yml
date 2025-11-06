@@ -1,0 +1,97 @@
+name: Add New Entry
+description: Add a new entry to the CSV database
+title: "[ADD] "
+labels: ["csv-update"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Add a new entry to the database
+        Fill out the form below. Fields marked with * are required.
+  
+  - type: input
+    id: name
+    attributes:
+      label: Name *
+      description: Name of the entry
+      placeholder: "Example: My Tool"
+    validations:
+      required: true
+  
+  - type: input
+    id: function
+    attributes:
+      label: Function
+      description: Main function or purpose
+      placeholder: "Example: Data processing"
+  
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category *
+      description: Select the main category
+      options:
+        - Development
+        - Design
+        - Marketing
+        - Data
+        - Operations
+        - Other
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: subcategory
+    attributes:
+      label: Subcategory
+      description: Select a subcategory (optional)
+      options:
+        - Frontend
+        - Backend
+        - DevOps
+        - Mobile
+        - Testing
+        - UI/UX
+        - Analytics
+        - Automation
+        - None
+  
+  - type: input
+    id: code_url
+    attributes:
+      label: Code URL
+      description: Link to code repository
+      placeholder: "https://github.com/..."
+  
+  - type: input
+    id: resource_url
+    attributes:
+      label: Resource URL
+      description: Link to documentation or resource
+      placeholder: "https://..."
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Detailed description
+      placeholder: "Describe the entry..."
+  
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: Programming language or main technology
+      options:
+        - JavaScript
+        - TypeScript
+        - Python
+        - Go
+        - Rust
+        - Java
+        - PHP
+        - Ruby
+        - C++
+        - Shell
+        - Other
+        - N/A
