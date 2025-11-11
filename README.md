@@ -159,6 +159,7 @@ Converters from various static schedule formats to and from GTFS.
 - [Transporter-Project transxchange-to-gtfs](https://github.com/Transporter-Project/transxchange-to-gtfs) TransXChange to GTFS converter written in Objective-C.
 - [TXC TransXChange publisher (UK Department for Transport)](https://www.gov.uk/government/publications/transxchange-publisher) - The TXC TransXChange publisher is a standalone software tool that can be used to publish TransXChange compliant XML documents in a format that’s easy to read and print.
 - [UK2GTFS](https://itsleeds.github.io/UK2GTFS/) - R package that converts UK format TransXchange (bus, metro, tram, ferry) and CIF (rail) timetables to GTFS.
+- [OSMTracker](https://wiki.openstreetmap.org/wiki/OSMTracker_(Android)) - OSMTracker is an offline GPS tracking app designed for collecting Points of Interest (POIs) and recording GPX tracks for collaborative use.
 
 #### GTFS Data Collection and Maintenance Tools
 
@@ -344,6 +345,14 @@ Massachusetts Bay Transportation Authority (MBTA)](https://github.com/mbta).
 - [shared-row](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
 - [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120) - The objective of this research is to develop technical specifications for transactional data for entities involved in the provision of demand-responsive transportation.  Expected completion date is late 2018.
 - [TIDES](https://github.com/TIDES-transit/TIDES) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
+- [OpenStop](https://wiki.openstreetmap.org/wiki/OpenStop) - OpenStop is a free app to add information about barriers and other accessibility properties of public transport stops to OpenStreetMap.
+- [JOSM Plugins - PT Assistant](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/PT_Assistant) - The plugin validates public transport routes against a set of criteria and, where possible, suggests ways to fix them.
+- [JOSM Validator Rules](https://josm.openstreetmap.de/wiki/Rules) - The JOSM validator (Tag checker) can be customized with different rules based on MapCSS.
+- [OSM Relatify](https://wiki.openstreetmap.org/wiki/Relatify) - OSM Relatify is a tool that simplifies the process of maintaining public transport relations.
+- [OpenStreetMap Route Editor](https://osm-simple-route-editor.kyle.kiwi/) - A tool for efficiently editing Route Relations in OpenStreetMap - OSM
+- [Prism](https://github.com/Jungle-Bus/prism) - Prism is a tool to extract public transport data from OpenStreetMap.
+- [Open Street Map Public Transport Parser](https://github.com/cualbondi/osmptparser) - Open Street Map Public Transport Parser
+- [Sketch Line](http://www.overpass-api.de/public_transport.html) - A tool to create transport diagram out of OSM data.
 
 ### Software for Creating APIs
 
@@ -432,6 +441,7 @@ Apps people use when taking transit.
 - [MBTA tile-server](https://github.com/mbta/tile-server) - Scripts to create a Docker container that encapsulates all the elements necessary to develop map tiles for use on MBTA.com
 - [Cadê Meu Busão](https://tarifazerobh.org/cade-meu-busao/) - Realtime tracking transit buses from Belo Horizonte, Brazil. Open-source on [GitHub](https://github.com/tarifazero/monitoramento).
 - [Tiramisu Transit](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
+- [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) - OsmAnd is a GPS Navigation and map application that runs on many Android and iOS smartphones and tablets, featuring optional offline maps and turn by...
 
 #### Web Apps (closed source)
 - [TransitScreen](http://transitscreen.com/) - Custom realtime displays of all local transportation choices
@@ -557,6 +567,13 @@ Experimental and production transit hardware.
  - [Canadian Rail Atlas](https://rac.jmaponline.net/canadianrailatlas/) - a user-friendly, interactive map of Canada’s nearly 43,000-kilometre railway network.
  - [The Rail Map](https://www.therailmap.com/) - An Interactive Map with Train lines in North America using data from OpenStreetMap.
  - [JR pass](https://www.jrpass.com/map#) - Interactive Map of Mainline Rail in Japan.
+- [Openptmap](https://wiki.openstreetmap.org/wiki/Openptmap) - openptmap shows public transport lines.
+- [OSMTransportViewer](https://gileri.github.io/OSMTransportViewer/) - Use OSM Overpass API to get network data
+- [PTMap](https://ptmap.plepe.at/#lat=48.20200&lon=16.33800&zoom=15) - The PTMap shows public transport routes as they are entered to the OpenStreetMap.
+- [Unroll](https://jungle-bus.github.io/unroll/) - Public transport routes
+- [Jungle Bus Map](https://jungle-bus.github.io/map/#15/48.8584/2.34846) - A webmap for viewing transport stop deails in OpenStreetMap.
+- [AccraMobile3](https://wiki.openstreetmap.org/wiki/AccraMobile3) - Accra Mobile 3 is a project launched in July 2017 to map all the Tro tro lines of Accra, Ghana for the Department of Transport (DoT) of Accra...
+- [OpenStationMap](https://openstationmap.org/#17/52.51022/13.43477/8.8/55) - Displays indoors of public transport stations (including rails and platforms).
 
 ### Agency Tools
 
