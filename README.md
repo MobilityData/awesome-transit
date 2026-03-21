@@ -447,6 +447,7 @@ Apps people use when taking transit.
 - [Cadê Meu Busão](https://tarifazerobh.org/cade-meu-busao/) - Realtime tracking transit buses from Belo Horizonte, Brazil. Open-source on [GitHub](https://github.com/tarifazero/monitoramento).
 - [Tiramisu Transit](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
 - [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) - OsmAnd is a GPS Navigation and map application that runs on many Android and iOS smartphones and tablets, featuring optional offline maps and turn by...
+- [MGuide](https://mguide.app) - Interactive campus map for the University of Michigan with real-time GTFS-RT bus tracking for both campus (UMich Blue Bus) and city (TheRide/AATA) transit systems, plus walking directions and 6-language support.
 
 #### Web Apps (closed source)
 - [TransitScreen](http://transitscreen.com/) - Custom realtime displays of all local transportation choices
