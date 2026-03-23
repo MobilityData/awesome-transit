@@ -457,7 +457,6 @@ Apps people use when taking transit.
 - [TransSee](https://www.transsee.ca/) - Real-time transit predictions based on actual travel times, vehicle locations, schedules and maps. Premium gives you access to a detailed history of schedules, vehicle locations, stop arrivals, schedule adherance, charts and graphs. For an additional fee custom queries can be run on this data.
 - [YourStop](http://yourstop.info) - Mobile friendly web app which consumes GTFS feeds and displays both live and scheduled trips for stops. Launched with MBTA, YRT/Viva and Maryland MTA.
 - [DC MetroHero](https://dcmetrohero.net) - Realtime vehicle position and arrivals and departure information for the Washington, D.C. region's WMATA Metrorail and Metrobus systems. WebApp, Android, and iOS apps avaliable.
-- [Navigo® TransitAccess](https://itouchinc.com/solutions/navigo-digital-transit-signage?source=GTFSorg) - Customizable real-time transit widgets for LED digital signage, video walls, and touchscreen displays with the additional power to create, manage, and schedule a variety of content for your target audience.
   
 #### Native Apps (open source)
 
@@ -479,6 +478,7 @@ Apps people use when taking transit.
 - [Transit](http://transitapp.com/)
 - [CityMapper](https://citymapper.com/)
 - [Moovit](http://moovitapp.com/)
+- [Navigo® TransitAccess](https://itouchinc.com/solutions/navigo-digital-transit-signage?source=GTFSorg) - Customizable real-time transit widgets for LED digital signage, video walls, and touchscreen displays with the additional power to create, manage, and schedule a variety of content for your target audience.
 - [Transit Display](http://transitdisplay.com/) - Multimodal and real-time transit display software.
 - [Ualabee](https://ualabee.com/company/) - Community driven trip planner with focus on user interaction, users can report anomalies, upload pictures, edit transit data and chat with other passengers.
 - [ÖPNV Navigator](https://navigatorapp.net/)
