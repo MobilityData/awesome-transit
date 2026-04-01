@@ -189,6 +189,7 @@ Converters from various static schedule formats to and from GTFS.
 - [GTFS Studio](https://gtfs.studio) - Online editor for GTFS feeds
 - [Uttu](https://github.com/entur/uttu) - Back-end for Nplan, a simple timetable editor.
 - [databùs](https://github.com/simovilab/databus-editor) - A web-based GTFS editor supporting creating, editing, and managing GTFS feeds
+- [transApp GTFS editor](https://gtfseditor.transapp.cl/login) - A web-based GTFS-editor, source code available: [backend](https://github.com/InspectorIncognito/gtfs-editor-backend) and [frontend](https://github.com/InspectorIncognito/gtfs-editor-frontend)
 
 #### GTFS Merge Tools
 - [combine_gtfs_feeds](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
