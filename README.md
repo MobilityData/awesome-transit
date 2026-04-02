@@ -3,7 +3,7 @@
 ##### Community list of data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
 
 Open technology provides an opportunity for various stakeholders to collaborate efforts to improve public transit.
-h
+
 Elements of open technology include:
 - Open standards
 - Open data
