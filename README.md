@@ -479,6 +479,7 @@ Apps people use when taking transit.
 - [Transit](http://transitapp.com/)
 - [CityMapper](https://citymapper.com/)
 - [Moovit](http://moovitapp.com/)
+- [Navigo® TransitAccess](https://itouchinc.com/solutions/navigo-digital-transit-signage?source=GTFSorg) - Customizable real-time transit widgets for LED digital signage, video walls, and touchscreen displays with the additional power to create, manage, and schedule a variety of content for your target audience.
 - [Transit Display](http://transitdisplay.com/) - Multimodal and real-time transit display software.
 - [Ualabee](https://ualabee.com/company/) - Community driven trip planner with focus on user interaction, users can report anomalies, upload pictures, edit transit data and chat with other passengers.
 - [ÖPNV Navigator](https://navigatorapp.net/)
