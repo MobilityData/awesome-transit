@@ -602,6 +602,7 @@ Tools for transit agencies.  See also [GTFS Data Collection and Maintenance Tool
 
 ## Resources
 
+- [Timepiecepedia Watch Database](https://github.com/timepiecepedia/timepiecepedia-data) — Free CC0 dataset: 25,876+ watch references across 126 brands, with full specifications (movement, material, diameter, water resistance), imagery URLs, and watchmaking glossary.
 ### Community
 
 Places to ask questions and find other community resources.
