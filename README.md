@@ -368,7 +368,7 @@ Software that you can set up to provide an API to transit and multimodal data.
 - [hafas-rest-api](https://github.com/public-transport/hafas-rest-api) – Expose a [HAFAS](https://de.wikipedia.org/wiki/HAFAS) endpoint as a REST API.
 - [Linked Connections](http://linkedconnections.org/) - An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data.
 - [Mobroute](http://sr.ht/~mil/mobroute) - Mobroute is a general purpose FOSS public transportation router (e.g. trip planner) Go library and CLI that works by directly ingesting timetable (GTFS) data from transit agencies themselves (sourced from the [Mobility Database](https://database.mobilitydata.org/)). It can be used to quickly run & test routing requests based on GTFS data on your device (via its CLI) or it can be embedded as a library to add GTFS routing to existing navigation apps.
-- [MOTIS](https://github.com/motis-project/motis) - Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used.
+- [MOTIS](https://motis-project.org) - Developed to handle large-scale timetables and OpenStreetMap data, MOTIS integrates various modes of transport - such as walking, cycling, sharing mobility (e-scooters, bike sharing, car sharing), and public transport - to provide optimized routing solutions. MOTIS is optimized for high performance with low memory usage. This enables planet-sized deployments on affordable hardware. It supports GTFS, GTFS-RT, NeTEx, SIRI, GBFS, and OpenStreetMap data.
 - [Navitia](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
 - [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use REST API.
 - [OpenTripPlanner](http://www.opentripplanner.org/) - An open source platform for multi-modal and multi-agency journey planning, as well as returning information about a multi-modal graph (using data sources such as GTFS and [OpenStreetMap](http://www.openstreetmap.org/)).
@@ -429,6 +429,7 @@ Places to access collections of GTFS and other transit and multimodal data.
 Apps people use when taking transit.
 
 #### Web Apps (open source)
+- [MOTIS](https://motis-project.org) - Web UI for the MOTIS mobility platform (routing, geocoding, live transit map, etc.).
 - [Catenary Maps](https://catenarymaps.org) - Realtime and Schedule global public transport map and navigation software, written in Rust and Svelte.
 - [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
 - [OpenTripPlanner Client GWT](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
@@ -492,6 +493,9 @@ Experimental and production transit hardware.
 - [Train departure Display](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
 
 ### SDKs
+- [motis-client](https://www.npmjs.com/package/@motis-project/motis-client) - MOTIS API TypeScript client
+- [motis-java-client](https://github.com/bileto/motis-java-client) - MOTIS API Java client
+- [motis-fptf-client](https://www.npmjs.com/package/@motis-project/motis-fptf-client) - A [Friendly Public Transport Format (FPTF)](https://github.com/public-transport/friendly-public-transport-format) client for [MOTIS](https://github.com/motis-project/motis) that is a drop-in replacement for [hafas-client](https://github.com/public-transport/hafas-client/) and/or [db-vendo-client](https://github.com/public-transport/db-vendo-client/).
 - [TripKit](https://github.com/alexander-albers/tripkit) - TripKit is a Swift-library to get data from public transport providers.
 - [KPublicTransport](https://invent.kde.org/libraries/kpublictransport) - A C++ library for accessing realtime public transport data and for performing public transport journey queries.
 - [SkedGo's TripKit SDKs](https://developer.tripgo.com) - Open source SDKs for Android, iOS and React for accessing [SkedGo](https://skedgo.com)'s TripGo API, including trip planning UI components.
@@ -508,7 +512,7 @@ Experimental and production transit hardware.
 - [Local Transit](https://www.localtransit.app) - Map visualization of public transit frequency, created using QGIS.
 - [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub](https://github.com/mapnificent/mapnificent), live at https://www.mapnificent.net/.
 - [MIT COAXS](http://mittransportanalyst.github.io/) - Co-creative Planning of Transit Corridors using Accessibility-Based Stakeholder Engagement (shows route scenarios using [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
-- [MOTIS](https://motis-project.de/) - Intermodal Mobility Information System including [visualization](https://europe.motis-project.de/)
+- [MOTIS](https://motis-project.org/) - Intermodal Mobility Information System, global server run by [Transitous.org community](https://transitous.org)
 - [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) - Frequency visualization of subways and buses in New York City built using [Transitland](https://transit.land/).
 - [SEPTA Rail OTP Report](https://apps.phor.net/septa/) - An online on-time performance reporing & drill down tool using GTFS.
 - [Simple Transit Map]([https://transit.chat/simple-transit-map](https://github.com/ioTransit/simple-transit-map)) - An online example of how to host and update a webmap.
