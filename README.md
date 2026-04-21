@@ -102,6 +102,10 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 - [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
 - [gtfs-via-postgres](https://github.com/derhuerst/gtfs-via-postgres) – Yet another tool to process GTFS using PostgreSQL.
 
+##### DuckDB
+
+- [gtfs-via-duckdb](https://github.com/public-transport/gtfs-via-duckdb) – Analyse GTFS Schedule data by importing it into a DuckDB database. 
+
 ##### Python
 - [ESRI public-transit-tools](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
 - [gtfsdb](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
