@@ -444,6 +444,7 @@ Apps people use when taking transit.
 - [Cadê Meu Busão](https://tarifazerobh.org/cade-meu-busao/) - Realtime tracking transit buses from Belo Horizonte, Brazil. Open-source on [GitHub](https://github.com/tarifazero/monitoramento).
 - [Tiramisu Transit](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
 - [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) - OsmAnd is a GPS Navigation and map application that runs on many Android and iOS smartphones and tablets, featuring optional offline maps and turn by...
+- [BUS DATA](https://pinniped.page/projects/bus-data) - Visual bus tracker for London Transit (London, Ontario, Canada) with extra facts and figures. Source [on GitHub](https://github.com/ObsidianSeal/pinniped.page).
 
 #### Web Apps (closed source)
 - [TransitScreen](http://transitscreen.com/) - Custom realtime displays of all local transportation choices
@@ -454,6 +455,7 @@ Apps people use when taking transit.
 - [TransSee](https://www.transsee.ca/) - Real-time transit predictions based on actual travel times, vehicle locations, schedules and maps. Premium gives you access to a detailed history of schedules, vehicle locations, stop arrivals, schedule adherance, charts and graphs. For an additional fee custom queries can be run on this data.
 - [YourStop](http://yourstop.info) - Mobile friendly web app which consumes GTFS feeds and displays both live and scheduled trips for stops. Launched with MBTA, YRT/Viva and Maryland MTA.
 - [DC MetroHero](https://dcmetrohero.net) - Realtime vehicle position and arrivals and departure information for the Washington, D.C. region's WMATA Metrorail and Metrobus systems. WebApp, Android, and iOS apps avaliable.
+- [Amtraker](https://amtraker.com/) - Live tracker for Amtrak trains across the US, with route maps and station ETAs.
 
 #### Native Apps (open source)
 
