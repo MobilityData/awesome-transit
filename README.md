@@ -405,6 +405,7 @@ Places to access collections of GTFS and other transit and multimodal data.
 - [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isochrones and lot more on US and EU. [Navitia](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
 - [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes](https://github.com/eskerda/pybikes).
 - [HAFAS](https://de.wikipedia.org/wiki/HAFAS) – Propriety public transport management software by [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
+- [InfraNode](https://infranode.dev/) - Free unified REST API for German city data including GTFS-RT realtime departures with delays for 84 cities, no key required.
 - [Citymapper API](https://docs.external.citymapper.com/api/) - REST API for transit journey planning, realtime transit data and walk, cycle, scooter travel times.
 - [TripGo API](https://developer.tripgo.com) - REST API for multi-modal journey planning and real-time data by [SkedGo](https://skedgo.com).
 
