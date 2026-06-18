@@ -407,6 +407,7 @@ Places to access collections of GTFS and other transit and multimodal data.
 - [HAFAS](https://de.wikipedia.org/wiki/HAFAS) – Propriety public transport management software by [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
 - [Citymapper API](https://docs.external.citymapper.com/api/) - REST API for transit journey planning, realtime transit data and walk, cycle, scooter travel times.
 - [TripGo API](https://developer.tripgo.com) - REST API for multi-modal journey planning and real-time data by [SkedGo](https://skedgo.com).
+- [InfraNode](https://infranode.dev) - Keyless REST (and MCP) API for 84+ German cities. Includes public-transport stops and live departures with real-time delays (DELFI/GTFS, HVV, VGN), alongside weather, air quality, traffic and roadworks. No API key.
 
 #### Crowdsourced transit data
 - [Citylines.co](https://www.citylines.co) - A collaborative platform for mapping transit systems, with an emphasis on their historical evolution. The data can be downloaded as GeoJSON or CSV from [citylines.co/data](https://www.citylines.co/data).
