@@ -239,6 +239,7 @@ Converters from various static schedule formats to and from GTFS.
 #### GTFS Analysis Tools
 
 - [GTFS Kit](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
+- [GTFS Scorecard](https://github.com/ChelseaKR/gtfs-scorecard) - Open-source GTFS and GTFS-Realtime quality scorecards for public feeds, with plain-language fixes, a web interface, read API, and GitHub Action.
 - [gtfstools](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
 - [transit_service_analyst](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
 - [Peartree](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
@@ -717,5 +718,4 @@ This is a community resource for informational use only - listing of a project/p
 This list is built and maintained by open source community contributors like you! [MobilityData](https://mobilitydata.org/) stewards the project. 
 
 #Awesome-transit was originally created by [Luqmaan Dawoodjee](https://github.com/luqmaan) and was stewarded by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) for several years before the project was transferred to MobilityData.
-
 
