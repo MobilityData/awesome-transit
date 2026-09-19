@@ -230,6 +230,7 @@ Converters from various static schedule formats to and from GTFS.
 - [Uttu](https://github.com/entur/uttu) - Back-end for Nplan, a simple timetable editor.
 - [GTFS Express](https://gtfsexpress.com) - Web application to edit, validate and analyze GTFS feeds — including Fares v2 and GTFS-Flex — with an interactive schedule grid and map editor, an SQL console with AI-assisted natural-language queries, and strict canonical validation via [MobilityData's gtfs-validator](https://github.com/MobilityData/gtfs-validator).
 - [Ohtli](https://ohtli.codeandomexico.org/). Free-access tool for creating and managing GTFS transit data, especially for cities where public transport information still exists mostly as operational knowledge instead of structured digital systems. Built around OpenStreetMap, it helps map routes, stops, and service patterns quickly, turning fragmented information into standardized transit feeds that can be used by maps, trip planners, and rider information systems.
+- [GTFS Zone Editor](https://edit.gtfs.zone) - Static web application to analyze and edit GTFS feeds. No login needed, fast, and transparent to the specification. Supports GTFS-Flex and Fares V2. AGPL3 source
 
 #### GTFS Merge Tools
 - [combine_gtfs_feeds](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
