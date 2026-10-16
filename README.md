@@ -207,7 +207,8 @@ Converters from various static schedule formats to and from GTFS.
 
 - [AddTransit](https://addtransit.com/gtfs-transit-file.php) - SaaS (Software as a Service) platform to create, edit and publish schedules in GTFS format.
 - [bus-router](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
-- [Croquis](https://github.com/julian-city/croquis) - An open-source R package and Shiny web application for transit sketch planning and GTFS production and editing. Users can upload an existing GTFS file or rapidly create one from scratch on an interactive map interface. 
+- [Croquis](https://github.com/julian-city/croquis) - An open-source R package and Shiny web application for transit sketch planning and GTFS production and editing. Users can upload an existing GTFS file or rapidly create one from scratch on an interactive map interface.
+- [GOAT](https://github.com/plan4better/goat) - Open-source WebGIS that computes public transport quality classes (ÖV-Güteklassen), transit catchment areas and other accessibility indicators from GTFS, alongside walking and cycling accessibility. It also has a GTFS data explorer, for viewing feed statistics and editing GTFS data for transport planning. Hosted version at [goat.plan4better.de](https://goat.plan4better.de/).
 - [gtfs-blocks-to-transfers](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal)](https://github.com/google/transit/pull/303).
 - [GTFS Diff](https://transport.data.gouv.fr/tools/gtfs_diff) - GTFS Diff is a specification created by transport.data.gouv.fr and aims at providing a simple and unified way to express differences between GTFS files.
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor) and [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools](https://github.com/ibi-group/datatools-ui).)
@@ -257,6 +258,7 @@ Converters from various static schedule formats to and from GTFS.
 - [GTFS Display](https://codeberg.org/dancingCycle/gtfs-display) - Analyse, monitor and maintain GTFS data ([Example instances](https://www.swingbe.de/activity/gtfs-display/)).
 - [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
 - [Trak.Tools](https://github.com/SparksTheFolf/trak.tools) - Alows viewing raw GTFS data on a select scale to further enhance visual data editing and easier viewing.
+- [GOAT](https://github.com/plan4better/goat) - Open-source WebGIS that computes public transport quality classes (ÖV-Güteklassen), transit catchment areas and other accessibility indicators from GTFS, alongside walking and cycling accessibility. It also has a GTFS data explorer, for viewing feed statistics and editing GTFS data for transport planning. Hosted version at [goat.plan4better.de](https://goat.plan4better.de/).
 
 #### GTFS Timetable Publishing Tools
 
