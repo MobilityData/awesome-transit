@@ -688,6 +688,8 @@ Places to ask questions and find other community resources.
 
 Blog posts, and reports related to open transit data.
 
+- [Airport-to-City-Centre Access Index](https://mubboo.flights/research/airport-city-access-index) - Source-linked CSV and methodology for published public transport times and fares in a 60-city panel (September 2026 snapshot), with CC BY 4.0 data, documented missing values and fixed city-centre endpoints.
+
 #### Blog posts
 
 - [When(ish) is my bus? Data and code](https://github.com/mjskay/when-ish-is-my-bus) - The data and code (R) behind Whenish is my bus? Data includes three days of historical vehicle positions and the survey results.
