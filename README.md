@@ -510,6 +510,7 @@ Apps people use when taking transit.
 - [Amtraker](https://amtraker.com/) - Live tracker for Amtrak trains across the US, with route maps and station ETAs.
 - [Bus RT Insights](https://busrtinsights.com) - Web-based transit analytics platform that turns GTFS and GTFS-Realtime data into automated KPIs, service delivery analysis, load profiles, and interactive maps and dashboards for any agency that has GTFS and GTFS-RT publicly available.
 - [haltestelle.net](https://haltestelle.net) - Live departure boards for every stop in Germany's VRR and VRS transit networks (Rhine-Ruhr / Rhine-Sieg, NRW), powered by the TRIAS realtime interface. Also shows live vehicle positions along each line and real-time elevator/escalator status — runs entirely in the browser, no app needed.
+- [sametrain.eu](https://sametrain.eu/en/index.html) - Daily comparison of the fares different European railway ticket sellers (DB, ÖBB, SBB, ČD, PKP Intercity, Trenitalia, Eurostar, Omio, …) charge for the same train, per route and booking lead time. Raw data as CSV under CC BY 4.0 ([Zenodo](https://doi.org/10.5281/zenodo.23669337)).
 
 #### Native Apps (open source)
 
