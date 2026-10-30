@@ -510,6 +510,7 @@ Apps people use when taking transit.
 - [Amtraker](https://amtraker.com/) - Live tracker for Amtrak trains across the US, with route maps and station ETAs.
 - [Bus RT Insights](https://busrtinsights.com) - Web-based transit analytics platform that turns GTFS and GTFS-Realtime data into automated KPIs, service delivery analysis, load profiles, and interactive maps and dashboards for any agency that has GTFS and GTFS-RT publicly available.
 - [haltestelle.net](https://haltestelle.net) - Live departure boards for every stop in Germany's VRR and VRS transit networks (Rhine-Ruhr / Rhine-Sieg, NRW), powered by the TRIAS realtime interface. Also shows live vehicle positions along each line and real-time elevator/escalator status — runs entirely in the browser, no app needed.
+- [WoW Train (glosx.app)](https://glosx.app/) - Free train trip planner for Europe and Japan in 5 languages. Publishes open-data timetable tables (first/last train, direct trains per day, fastest journey, CSV download) built from official GTFS feeds: [Switzerland](https://glosx.app/swiss-trains/) (SBB), [Austria](https://glosx.app/austria-trains/) (ÖBB), [Norway](https://glosx.app/norway-trains/) (Entur), [Sweden](https://glosx.app/sweden-trains/) (Trafiklab) and [Finland](https://glosx.app/finland-trains/) (Digitraffic), plus live Swiss departures via OJP 2.0.
 
 #### Native Apps (open source)
 
