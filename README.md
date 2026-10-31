@@ -261,6 +261,7 @@ Converters from various static schedule formats to and from GTFS.
 #### GTFS Timetable Publishing Tools
 
 - [GTFS-to-HTML](https://gtfstohtml.com) - Generate human-readable timetables in HTML or PDF format directly from GTFS.
+- [PTD GTFS Schedules](https://wordpress.org/plugins/ptd-gtfs-schedules/) - Open source WordPress plugin that imports a GTFS feed and publishes line lists and line pages with simplified route diagrams, stop times and departure boards.
 - [Timetable Kit](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development. 
 - [TimeTablePublisher (TTPUB)](https://github.com/OpenTransitTools/ttpub) - A web publishing system developed by TriMet that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
 
