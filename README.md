@@ -16,37 +16,75 @@ Have something to add or change? Open a [pull request](https://github.com/Mobili
 ------------------------------
 
 ### Table of Contents
-- [Producting Data](#producing-data)
-  - [GTFS](#gtfs)
-    - [GTFS Libraries](#gtfs-libraries)
-    - [GTFS Converters](#gtfs-converters)
-    - [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenance-tools)
-    - [GTFS Merge Tools](#gtfs-merge-tools)
-    - [GTFS Analysis Tools](#gtfs-analysis-tools)
-    - [GTFS Timetable Publishing Tools](#gtfs-timetable-publishing-tools)
-    - [GTFS Validators](#gtfs-validators)
-  - [GTFS Realtime](#gtfs-realtime)
-    - [GTFS Realtime Libraries & Demo Apps](#gtfs-realtime-libraries--demo-apps)
-    - [GTFS Realtime Validators](#gtfs-realtime-validators)
-    - [GTFS Realtime (and Other Real-time API) Archival Tools](#gtfs-realtime-and-other-real-time-api-archival-tools)
-    - [GTFS Realtime Convertors](#gtfs-realtime-convertors)
-    - [GTFS Realtime Utilities](#gtfs-realtime-utilities)
-  - [SIRI](#siri)
-  - [Other multimodal data formats](#other-multimodal-data-formats)
-- [Sharing Data](#sharing-data)
-- [Using Data](#using-data)
-  - [Consumer Apps](#consumer-apps)
-    - [Web Apps (open source)](#web-apps-open-source)
-    - [Web Apps (closed source)](#web-apps-closed-source)
-    - [Native Apps (open source)](#native-apps-open-source)
-    - [Native Apps (closed source)](#native-apps-closed-source)
-  - [Hardware](#hardware)
-  - [Software for Creating APIs](#software-for-creating-apis)
-  - [SDKs](#sdks)
-  - [Visualizations](#visualizations)
-  - [Agency Tools](#agency-tools)
-- [Resources](#resources)
-  - [Community](#community)
+- [awesome-transit  ](#awesome-transit--)
+        - [Community list of data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.](#community-list-of-data-standards-apis-apps-tools-datasets-and-research-around-open-source-technology-of-public-transit)
+    - [Table of Contents](#table-of-contents)
+  - [Producing Data](#producing-data)
+    - [GTFS](#gtfs)
+      - [GTFS Courses](#gtfs-courses)
+      - [GTFS Consumer App Guidance](#gtfs-consumer-app-guidance)
+      - [GTFS Libraries](#gtfs-libraries)
+        - [C](#c)
+        - [C++](#c-1)
+        - [C#](#c-2)
+        - [Go](#go)
+        - [Java](#java)
+        - [JavaScript](#javascript)
+        - [PostgreSQL](#postgresql)
+        - [DuckDB](#duckdb)
+        - [Python](#python)
+        - [R](#r)
+        - [Ruby](#ruby)
+        - [Rust](#rust)
+      - [GTFS Converters](#gtfs-converters)
+      - [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenance-tools)
+      - [GTFS Merge Tools](#gtfs-merge-tools)
+      - [GTFS Analysis Tools](#gtfs-analysis-tools)
+      - [GTFS Timetable Publishing Tools](#gtfs-timetable-publishing-tools)
+      - [GTFS Validators](#gtfs-validators)
+    - [GTFS Realtime](#gtfs-realtime)
+      - [GTFS Realtime Libraries \& Demo Apps](#gtfs-realtime-libraries--demo-apps)
+      - [GTFS Realtime Validators](#gtfs-realtime-validators)
+      - [GTFS Realtime (and Other Real-time API) Archival Tools](#gtfs-realtime-and-other-real-time-api-archival-tools)
+      - [GTFS Realtime Convertors](#gtfs-realtime-convertors)
+      - [GTFS Realtime Utilities](#gtfs-realtime-utilities)
+    - [SIRI](#siri)
+    - [Other multimodal data formats](#other-multimodal-data-formats)
+      - [Widely adopted](#widely-adopted)
+      - [Pilot or development stage](#pilot-or-development-stage)
+    - [Software for Creating APIs](#software-for-creating-apis)
+  - [Sharing Data](#sharing-data)
+      - [3rd party GTFS URL directories](#3rd-party-gtfs-url-directories)
+      - [Transit agency data archives](#transit-agency-data-archives)
+      - [National government datasets](#national-government-datasets)
+      - [Proprietary (non-standard) vendor APIs](#proprietary-non-standard-vendor-apis)
+      - [Crowdsourced transit data](#crowdsourced-transit-data)
+      - [Sample GTFS and GTFS Realtime datasets used for software testing](#sample-gtfs-and-gtfs-realtime-datasets-used-for-software-testing)
+  - [Using Data](#using-data)
+    - [Consumer Apps](#consumer-apps)
+      - [Web Apps (open source)](#web-apps-open-source)
+      - [Web Apps (closed source)](#web-apps-closed-source)
+      - [Native Apps (open source)](#native-apps-open-source)
+      - [Native Apps (closed source)](#native-apps-closed-source)
+    - [Hardware](#hardware)
+    - [SDKs](#sdks)
+    - [Visualizations](#visualizations)
+      - [GTFS Based Visualizations](#gtfs-based-visualizations)
+      - [Transit Map Creation](#transit-map-creation)
+        - [General Drawing Applications for making transit visualizations](#general-drawing-applications-for-making-transit-visualizations)
+        - [General GIS Applications for making transit visualizations](#general-gis-applications-for-making-transit-visualizations)
+      - [Transit Map Aggregation](#transit-map-aggregation)
+    - [Agency Tools](#agency-tools)
+  - [Resources](#resources)
+    - [Community](#community)
+      - [Local and regional groups](#local-and-regional-groups)
+    - [Research and Commentary](#research-and-commentary)
+      - [Blog posts](#blog-posts)
+      - [Academic papers](#academic-papers)
+      - [Government reports](#government-reports)
+      - [Community-maintained lists](#community-maintained-lists)
+  - [License](#license)
+  - [About](#about)
 
 ## Producing Data
 
@@ -139,11 +177,13 @@ Converters from various static schedule formats to and from GTFS.
 - [Chouette](https://enroute.atlassian.net/wiki/spaces/PUBLIC/pages/539426886/Chouette+Convert) - Converts between French-Transmodel [NeTEX](https://transmodel-cen.eu/index.php/netex/) and GTFS.
 - [extract-gtfs-pathways](https://github.com/derhuerst/extract-gtfs-pathways) – Command-line tool to extract pathways as GeoJSON from a GTFS dataset.
 - [extract-gtfs-shapes](https://github.com/derhuerst/extract-gtfs-shapes) – Command-line tool to extract shapes as GeoJSON from a GTFS dataset.
+- [gtfs-osm-import](https://github.com/Gabboxl/gtfs-osm-import) - Java tool for importing GTFS data into OpenStreetMap, with conflict checks against existing OSM elements.
 - [GTFS-OSM-Sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
 - [gtfs-parser](https://github.com/ioTransit/gtfs-parser) - The GTFS-PARSER library is a library to allow javascript to parse gtfs and create geojson on client or server.
 - [gtfs-service-area](https://github.com/cal-itp/gtfs-service-area) - Compute a transit service area from static GTFS. Results are output as single-layer .geojson files. Dockerized version of [gtfs-to-geojson](https://github.com/BlinkTagInc/gtfs-to-geojson).
 - [GTFS-route-shapes](https://github.com/kotrc/GTFS-route-shapes) - A Python script to generate a single geoJSON shape for each transit route in a GTFS archive.
 - [gtfs-to-geojson](https://github.com/BlinkTagInc/gtfs-to-geojson) - Javascript tool that converts transit data in GTFS shapes and stops into geoJSON. This is useful for creating maps of transit routes.
+- * [RoutePress GTFS to GeoJSON Converter](https://www.getroutepress.com/free-tools/gtfs-to-geojson) - Free, easy-to-use browser tool that converts GTFS shapes and stops into GeoJSON for use in ArcGIS, QGIS, and other GIS software. No installation required.
 - [gtfs2gps](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
 - [gtfs2emis](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
 - [gtsf](https://github.com/r-gtfs/gtsf) - general transit (GTFS) simple (geographic) features (sf) in R. can be used to convert from GTFS to Shapefile, GeoJSON, and other formats through GDAL.
@@ -167,6 +207,7 @@ Converters from various static schedule formats to and from GTFS.
 
 - [AddTransit](https://addtransit.com/gtfs-transit-file.php) - SaaS (Software as a Service) platform to create, edit and publish schedules in GTFS format.
 - [bus-router](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+- [Croquis](https://github.com/julian-city/croquis) - An open-source R package and Shiny web application for transit sketch planning and GTFS production and editing. Users can upload an existing GTFS file or rapidly create one from scratch on an interactive map interface. 
 - [gtfs-blocks-to-transfers](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal)](https://github.com/google/transit/pull/303).
 - [GTFS Diff](https://transport.data.gouv.fr/tools/gtfs_diff) - GTFS Diff is a specification created by transport.data.gouv.fr and aims at providing a simple and unified way to express differences between GTFS files.
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor) and [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools](https://github.com/ibi-group/datatools-ui).)
@@ -200,6 +241,7 @@ Converters from various static schedule formats to and from GTFS.
 #### GTFS Analysis Tools
 
 - [GTFS Kit](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
+- [GTFS Scorecard](https://github.com/ChelseaKR/gtfs-scorecard) - Daily, open-source GTFS and GTFS-Realtime quality scoring, built on the MobilityData validator, for a curated registry of 2,400+ feed records, virtually all with a published scorecard. Rider-focused fix guidance, agency/program/state-NTD-readiness views, trend history, a read API, pre-publish checks via a GitHub Action, and a paid report bundle for programs supporting many agencies.
 - [gtfstools](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
 - [transit_service_analyst](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
 - [Peartree](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
@@ -226,6 +268,7 @@ Converters from various static schedule formats to and from GTFS.
 - [Conveyal's gtfs-validator](https://github.com/conveyal/gtfs-validator) - A Java-based GTFS validator based on the OneBusAway GTFS Modules, runs in Java and is faster than the Google provided one.
 - [Conveyal's gtfs-lib](https://github.com/conveyal/gtfs-lib/) - Conveyal's successor to their own [gtfs-validator](https://github.com/conveyal/gtfs-validator), a Java-based library for loading and saving GTFS feeds of arbitrary size with disk-backed storage.
 - [Google's feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google-supported Python-based GTFS validator.
+- [GTFS Analyzer](https://github.com/ttezer/gtfs-analyzer) - An open-source, local-first GTFS Schedule validator and quality analyzer written in Rust, available as a browser-based WebAssembly app, a Cargo-installable CLI, a Rust library, an npm SDK, and a CI/CD integration. It supports multilingual reports in Turkish, English, and Japanese, GTFS-JP v3/v4 profile validation, local browser processing without feed uploads, and additional specification, interoperability, accessibility, geographic, service, and operational quality analysis. [Web app](https://ttezer.github.io/gtfs-analyzer/).
 - [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - A Data Package specification with validation accomplished with Good Tables. Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
 - [gtfstidy](https://github.com/patrickbr/gtfstidy) - A Go-based tool to tidy and validate GTFS feeds.
 - [gtfsclean](https://github.com/public-transport/gtfsclean) - A tool for checking, sanitizing, and minimizing GTFS feeds. Fork of gtfstidy, with some additional fixes that haven't been merged upstream yet.
@@ -234,9 +277,11 @@ Converters from various static schedule formats to and from GTFS.
 - [MobilityData's gtfs-validator](https://github.com/MobilityData/gtfs-validator) - A open-source GTFS validator canonically following the GTFS spec implemented in Java licensed under Apache v2.0 maintained by [MobilityData](https://mobilitydata.org/).
 - [gtfs-validator-metrics-service](https://github.com/mobidata-bw/gtfs-validator-metrics-service) - Validates GTFS Schedule datasets using MobilityData's GTFS-Validator and exposes the results as Prometheus/OpenTelemetry metrics.
 - [Reflect GTFS Validator (hosted by Foursquare ITP)](https://reflect.foursquareitp.com) - Transit schedule and GTFS validation platform by [Foursquare ITP](https://www.foursquareitp.com) that includes a free, web-based GTFS validator based on [gtfs-lib](https://github.com/conveyal/gtfs-lib/).
+- [tods-validate](https://github.com/ChelseaKR/tods-validate) - A Python validator and GitHub Action for [TODS](https://tods-transit.org/) feeds, the operational overlay to GTFS covering crew runs, deadheads and vehicle assignments. Checks a feed against TODS v2.1.0, cross-checks the companion GTFS, and cites the spec section behind each finding. Also runs entirely in the browser via WebAssembly, so non-public operational data is not uploaded.
 - [Transit App's gtfs-fares-v2-validator](https://github.com/TransitApp/gtfs-fares-v2-validator) - A Python tool that validators GTFS-Fares-v2 data based on the [draft specification](https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit#).
 - [Transport Validator](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
 - [gtfs-accessiblity-validator](https://github.com/BlinkTagInc/gtfs-accessibility-validator) - Validates the presence of accessiblity-related fields and files in a GTFS file. Can be a command line tool or node.js package.
+- [GTFS.guru](https://gtfs.guru/) - Rust-core GTFS validator that compiles to WebAssembly so feeds can be validated locally in the browser. Also ships desktop apps, a CLI, and Python bindings.
 
 
 ### GTFS Realtime
@@ -412,6 +457,7 @@ Places to access collections of GTFS and other transit and multimodal data.
 - [Citylines.co](https://www.citylines.co) - A collaborative platform for mapping transit systems, with an emphasis on their historical evolution. The data can be downloaded as GeoJSON or CSV from [citylines.co/data](https://www.citylines.co/data).
 - [OpenStreetMap (OSM)](https://www.openstreetmap.org) - The collaborative platform for mapping the world, including transport, transit, and routing data.
 - [GTFS-Hub](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
+- [Hub de Datos de Transporte Público en México](hdtp.codeandomexico.org/). An open platform created by Codeando México to help Mexican and Latin America cities publish standardized public transport data. Through GTFS feeds, mapping workflows, and open methodologies, the project turns fragmented transit information into reusable digital infrastructure that can power trip planners, accessibility tools, research, and mobility analysis.
 
 #### Sample GTFS and GTFS Realtime datasets used for software testing
 - [sample-gtfs-feed](https://github.com/public-transport/sample-gtfs-feed) - An imaginary GTFS data set used for testing.
@@ -426,7 +472,9 @@ Apps people use when taking transit.
 #### Web Apps (open source)
 - [MOTIS](https://motis-project.org) - Web UI for the MOTIS mobility platform (routing, geocoding, live transit map, etc.).
 - [Catenary Maps](https://catenarymaps.org) - Realtime and Schedule global public transport map and navigation software, written in Rust and Svelte.
-- [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
+- [Instabus](https://github.com/luqmaan/instabus) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages. No longer maintained; the instabus.org domain no longer points at the project.
+- [Is SEPTA Fucked?](https://www.isseptafucked.com/) - Status dashboard for SEPTA (Philadelphia) showing whether Regional Rail, Metro, and bus service is currently disrupted.
+- [Is Metro Burning?](https://ismetroburning.com/) - Similar at-a-glance status board for WMATA (D.C. Metro).
 - [OpenTripPlanner Client GWT](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
 - [OpenTripPlanner.js](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner (no longer under development)
 - [OTP-UI React Component Library](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
@@ -439,11 +487,12 @@ Apps people use when taking transit.
 - [Bustime](https://busti.me) - Public transport real-time monitoring with WebSocket updates. Open-source [on GitHub](https://github.com/norn/bustime).
 - [Transit Tracker](https://transittracker.ca/#/) - Realtime vehicle position for Greater Montreal & Toronto, Canada
 - [GTFS Builder](http://nationalrtap.org/Web-Apps/GTFS-Builder) - A free web-based application to help you create GTFS files. Maintained by the National Rural Transit Assistance Program (RTAP).
-- Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A message feed with Vehicle Position entities in the GTFS-Realtime format or the [Dede app](https://github.com/dancesWithCycles/dede-android) can be used as data source.
+- Dede - An independent and universal passenger information system (PIS) mapping realtime movement. A [message feed with Vehicle Position entities](https://codeberg.org/dancingCycle/dede-obc-adapter) in the GTFS-Realtime format or the Dede app can be used as data source/ as provider to the [Dede server](https://codeberg.org/dancingCycle/dede-server). The result is presented either on the [Dede web front end](https://codeberg.org/dancingCycle/dede-front-end) or [Dede display](https://codeberg.org/dancingCycle/dede-display).
 - [MBTA tile-server](https://github.com/mbta/tile-server) - Scripts to create a Docker container that encapsulates all the elements necessary to develop map tiles for use on MBTA.com
 - [Cadê Meu Busão](https://tarifazerobh.org/cade-meu-busao/) - Realtime tracking transit buses from Belo Horizonte, Brazil. Open-source on [GitHub](https://github.com/tarifazero/monitoramento).
 - [Tiramisu Transit](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
 - [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) - OsmAnd is a GPS Navigation and map application that runs on many Android and iOS smartphones and tablets, featuring optional offline maps and turn by...
+- [BUS DATA](https://pinniped.page/projects/bus-data) - Visual bus tracker for London Transit (London, Ontario, Canada) with extra facts and figures. Source [on GitHub](https://github.com/ObsidianSeal/pinniped.page).
 
 #### Web Apps (closed source)
 - [TransitScreen](http://transitscreen.com/) - Custom realtime displays of all local transportation choices
@@ -454,6 +503,12 @@ Apps people use when taking transit.
 - [TransSee](https://www.transsee.ca/) - Real-time transit predictions based on actual travel times, vehicle locations, schedules and maps. Premium gives you access to a detailed history of schedules, vehicle locations, stop arrivals, schedule adherance, charts and graphs. For an additional fee custom queries can be run on this data.
 - [YourStop](http://yourstop.info) - Mobile friendly web app which consumes GTFS feeds and displays both live and scheduled trips for stops. Launched with MBTA, YRT/Viva and Maryland MTA.
 - [DC MetroHero](https://dcmetrohero.net) - Realtime vehicle position and arrivals and departure information for the Washington, D.C. region's WMATA Metrorail and Metrobus systems. WebApp, Android, and iOS apps avaliable.
+- [El Tracker](https://www.el-tracker.com/home) - Realtime tracker for Chicago Transit Authority (CTA) Loop trains.
+- [WMATA Exit Optimizer](https://wmata-exit-optimizer.com/) - Suggests which train car to board for the shortest walk to your destination station's exit on the WMATA Metro.
+- [Transfer Hero](https://transferhero.app/) - Realtime metro trip planning for WMATA that surfaces useful transfers.
+- [Amtraker](https://amtraker.com/) - Live tracker for Amtrak trains across the US, with route maps and station ETAs.
+- [Bus RT Insights](https://busrtinsights.com) - Web-based transit analytics platform that turns GTFS and GTFS-Realtime data into automated KPIs, service delivery analysis, load profiles, and interactive maps and dashboards for any agency that has GTFS and GTFS-RT publicly available.
+- [haltestelle.net](https://haltestelle.net) - Live departure boards for every stop in Germany's VRR and VRS transit networks (Rhine-Ruhr / Rhine-Sieg, NRW), powered by the TRIAS realtime interface. Also shows live vehicle positions along each line and real-time elevator/escalator status — runs entirely in the browser, no app needed.
 
 #### Native Apps (open source)
 
@@ -488,6 +543,7 @@ Experimental and production transit hardware.
 
 - [Arrivals LED](https://github.com/jdamcd/arrivals-led) - Python renderer that drives a 128×32 HUB75 LED matrix on a Raspberry Pi to display live transit arrivals.
 - [Bus Tracking GPS](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
+- [CharlieBoard](https://github.com/tomunderwood99/CharlieBoard) - Open-source MBTA display using WS2812B LEDs on a Raspberry Pi Zero 2W, with real-time vehicle positions, geographically accurate PCB map, and a web control interface.
 - [Train departure Display](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
 
 ### SDKs
@@ -587,23 +643,27 @@ Experimental and production transit hardware.
 - [AccraMobile3](https://wiki.openstreetmap.org/wiki/AccraMobile3) - Accra Mobile 3 is a project launched in July 2017 to map all the Tro tro lines of Accra, Ghana for the Department of Transport (DoT) of Accra...
 - [OpenStationMap](https://openstationmap.org/#17/52.51022/13.43477/8.8/55) - Displays indoors of public transport stations (including rails and platforms).
 - [gbfs R package](https://github.com/simonpcouch/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
+- [TrainRouter](https://trainrouter.com/) - Interactive world atlas of 744 notable train routes (high-speed, scenic and night trains) with facts and photos for each route; the underlying data is open (CC BY 4.0).
 
 ### Agency Tools
 
 Tools for transit agencies.  See also [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenance-tools) for tools specific to GTFS.
 
-- [Remix by Via](https://ridewithvia.com/solutions/remix) - A webapp that lets transit agencies easily plan routes.
-- [Next Train API](https://github.com/data-creative/next-train-api) - Serves any GTFS feed as a JSON API. Transit agencies and developers alike can deploy the open source code to their own Heroku server.
 - [AC Transit RestroomFinder](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
 - [AC Transit Training and Education Department (TED) application](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
 - [AC Transit Customer Relations application (CusRel)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
+- [GTFS·X](https://www.gtfsx.com/editor) - Fast, free, web-based GTFS editor. GNU licensed ([GitHub](https://github.com/markegge/gtfsx)).
+- [Next Train API](https://github.com/data-creative/next-train-api) - Serves any GTFS feed as a JSON API. Transit agencies and developers alike can deploy the open source code to their own Heroku server.
 - [PTV Lines](https://www.ptvgroup.com/en/products/ptv-lines) - A cloud-based public transport software for line planning and public transport service optimisation
-- [TransAM]([http://camsys.software/products/transam](https://github.com/camsys/transam_core)) - An open-source asset management platform for public transportation agencies.
 - [RidePilot](https://github.com/camsys/ridepilot) - An open-source Computer Aided Scheduling and Dispatch (CASD) software system to meet the needs of small scale human service transportation agencies.
 - [TNExT](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
+- [Remix by Via](https://ridewithvia.com/solutions/remix) - A webapp that lets transit agencies easily plan routes.
+- [RideSheet](https://docs.ridesheet.org) – A simple, spreadsheet-based tool for small demand-responsive transportation (DRT) services.
 - Route Trends ([webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)) - An R Shiny app to ingest ridership time series, and return seasonal, trend, and residual components according to [STL methodology](https://otexts.com/fpp2/stl.html) and forecasts including uncertainty based on those components.  Sponsored by [Metro Transit](https://www.metrotransit.org/) (Minneapolis-St. Paul).
 - [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
-- [RideSheet](https://docs.ridesheet.org) – A simple, spreadsheet-based tool for small demand-responsive transportation (DRT) services.
+- [TransAM]([http://camsys.software/products/transam](https://github.com/camsys/transam_core)) - An open-source asset management platform for public transportation agencies.
+
+
 
 ## Resources
 
@@ -662,6 +722,9 @@ Blog posts, and reports related to open transit data.
 - [Vendors Providing GTFS Creation/Maintenance services](https://docs.google.com/spreadsheets/u/1/d/1Gc9mu4BIYC8ORpv2IbbVnT3q8VQ3xkeY7Hz068vT_GQ/pubhtml) - Add new vendors [here](http://goo.gl/forms/YDbPSPmufS).
 - [Entities Providing Transportation Software Development Consulting Services](https://docs.google.com/spreadsheets/u/1/d/1n44CNMCK1vt1nyrsdYz-KD_hYxUMNIm6Me69M6ROBIg/pubhtml) - Add new entities [here](http://goo.gl/forms/cc6kcVERuP).
 
+#### Related lists
+- [awesome-europe](https://github.com/GeiserX/awesome-europe#transport-and-mobility) - Curated list of open source projects for the EU / EEA, with a transport and mobility section that overlaps this list (HAFAS, NeTEx, ETCS, SIRI, Transitous, OpenTripPlanner EU deployments).
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -674,5 +737,3 @@ This is a community resource for informational use only - listing of a project/p
 This list is built and maintained by open source community contributors like you! [MobilityData](https://mobilitydata.org/) stewards the project. 
 
 #Awesome-transit was originally created by [Luqmaan Dawoodjee](https://github.com/luqmaan) and was stewarded by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) for several years before the project was transferred to MobilityData.
-
-
