@@ -9,6 +9,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Use the following format: `[List Name](link)`
+- If the project has a public GitHub repository, add a last commit badge after its link: `![last commit](https://img.shields.io/github/last-commit/owner/repo)`
 - Link additions should be added to the relevant category in alphabetically order.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
