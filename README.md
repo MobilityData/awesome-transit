@@ -494,6 +494,7 @@ Apps people use when taking transit.
 - [Tiramisu Transit](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
 - [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) - OsmAnd is a GPS Navigation and map application that runs on many Android and iOS smartphones and tablets, featuring optional offline maps and turn by...
 - [BUS DATA](https://pinniped.page/projects/bus-data) - Visual bus tracker for London Transit (London, Ontario, Canada) with extra facts and figures. Source [on GitHub](https://github.com/ObsidianSeal/pinniped.page).
+- [Morlaco](https://nezusas.github.io/morlaco/web/) - What's happening today on your street in Cuenca, Ecuador: nearby bus stops and lines, a "which bus takes me" planner, the tram, garbage collection and water cuts, in Spanish and English. Publishes a [GTFS feed](https://nezusas.github.io/morlaco/datos/gtfs/cuenca-buses.zip) of the city's urban buses built from municipal open data. Open-source [on GitHub](https://github.com/NezuSas/morlaco).
 
 #### Web Apps (closed source)
 - [TransitScreen](http://transitscreen.com/) - Custom realtime displays of all local transportation choices
