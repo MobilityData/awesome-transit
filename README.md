@@ -496,6 +496,7 @@ Apps people use when taking transit.
 - [Tiramisu Transit](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
 - [OsmAnd](https://wiki.openstreetmap.org/wiki/OsmAnd) - OsmAnd is a GPS Navigation and map application that runs on many Android and iOS smartphones and tablets, featuring optional offline maps and turn by...
 - [BUS DATA](https://pinniped.page/projects/bus-data) - Visual bus tracker for London Transit (London, Ontario, Canada) with extra facts and figures. Source [on GitHub](https://github.com/ObsidianSeal/pinniped.page).
+- [DoveBus](https://dovebus.it) - Realtime map of every Autolinee Toscane bus in Tuscany, Italy, built on Regione Toscana's GTFS and GTFS-Realtime feeds. Shows each trip's delay and how old each position is. Open-source (AGPL-3.0) [on GitHub](https://github.com/Kin39/DoveBus), including the API behind the map.
 
 #### Web Apps (closed source)
 - [TransitScreen](http://transitscreen.com/) - Custom realtime displays of all local transportation choices
