@@ -596,8 +596,9 @@ Experimental and production transit hardware.
 - [MetroDreamin'](https://metrodreamin.com/explore) - A modern, open source software that allows users to create, save, like, and share interactive transit maps with agents.
 - [Rail Map Generators](https://wongchito.github.io/RailMapGenerator) - Tool for generating railway maps and information panels in the styles of various cities' public transportation systems.
 - [MetroSets](https://metrosets.ac.tuwien.ac.at/) - A flexible web tool to visualize set systems using the metro map metaphor. Based on this [paper](https://www.computer.org/csdl/journal/tg/2021/02/09224192/1nV7Me0F3Lq)
-##### General Drawing Applications for making transit visualizations
+- [MURScheme](https://github.com/tringoli/MURStack/tree/main/MURScheme) - Open-source, offline-first browser editor for transit-style schematics with smart line bundling and broad export options (SVG, layered PDF, ORA, PNG/WebP, JSON) for further work.
 
+##### General Drawing Applications for making transit visualizations
 - [Adobe illustrator](https://www.adobe.com/ca/products/illustrator.html) - The industry-leading vector graphics software (requres membership plan).
 - [Inkscape](https://inkscape.org/) - A free desgn tool similar to Adobe Illustrator.
 ##### General GIS Applications for making transit visualizations
