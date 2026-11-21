@@ -257,6 +257,7 @@ Converters from various static schedule formats to and from GTFS.
 - [GTFS Display](https://codeberg.org/dancingCycle/gtfs-display) - Analyse, monitor and maintain GTFS data ([Example instances](https://www.swingbe.de/activity/gtfs-display/)).
 - [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
 - [Trak.Tools](https://github.com/SparksTheFolf/trak.tools) - Alows viewing raw GTFS data on a select scale to further enhance visual data editing and easier viewing.
+- [route_efficiency](https://github.com/ismatsamadov/route_efficiency) - Measures a city's bus network from its GTFS feed (route directness, duplicate routes, stop spacing, coverage, door-to-door travel times) and searches step by step for a better network with the same buses, reporting what it would save in travel time, buses, fuel and CO2. Python standard library only; results for 26 cities.
 
 #### GTFS Timetable Publishing Tools
 
