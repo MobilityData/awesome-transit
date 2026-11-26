@@ -416,6 +416,7 @@ Massachusetts Bay Transportation Authority (MBTA)](https://github.com/mbta).
 Software that you can set up to provide an API to transit and multimodal data.
 
 - [GraphHopper Routing Engine](https://github.com/graphhopper/graphhopper/#public-transit) Open source routing engine for OpenStreetMap. Use it as Java library or server.
+- [GTFS Core](https://www.drupal.org/project/gtfs) - Drupal module that imports every file in a GTFS feed into Drupal entities and serves them over a read-only REST API, with several feeds per site. Its companion [GTFS Realtime](https://www.drupal.org/project/gtfs_rt) ingests trip updates, vehicle positions and service alerts and serves them as JSON alongside the static data.
 - [gtfs-server](https://github.com/denysvitali/gtfs-server) - A web server, written in Rust that uses PostGIS as a backend to serve GTFS data via a HTTP endpoint
 - [hafas-rest-api](https://github.com/public-transport/hafas-rest-api) – Expose a [HAFAS](https://de.wikipedia.org/wiki/HAFAS) endpoint as a REST API.
 - [Linked Connections](http://linkedconnections.org/) - An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data.
