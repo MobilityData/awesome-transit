@@ -556,6 +556,7 @@ Experimental and production transit hardware.
 ### SDKs
 - [motis-client](https://www.npmjs.com/package/@motis-project/motis-client) - MOTIS API TypeScript client
 - [motis-java-client](https://github.com/bileto/motis-java-client) - MOTIS API Java client
+- [motis (Rust)](https://crates.io/crates/motis) - MOTIS 2 API Rust client, with [motis-sim](https://crates.io/crates/motis-sim), a fake MOTIS server for tests.
 - [motis-fptf-client](https://www.npmjs.com/package/@motis-project/motis-fptf-client) - A [Friendly Public Transport Format (FPTF)](https://github.com/public-transport/friendly-public-transport-format) client for [MOTIS](https://github.com/motis-project/motis) that is a drop-in replacement for [hafas-client](https://github.com/public-transport/hafas-client/) and/or [db-vendo-client](https://github.com/public-transport/db-vendo-client/).
 - [TripKit](https://github.com/alexander-albers/tripkit) - TripKit is a Swift-library to get data from public transport providers.
 - [KPublicTransport](https://invent.kde.org/libraries/kpublictransport) - A C++ library for accessing realtime public transport data and for performing public transport journey queries.
