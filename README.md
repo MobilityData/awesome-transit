@@ -141,6 +141,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 
 ##### DuckDB
 
+- [GTFS DuckDB 🦆](https://github.com/gabrielAHN/gtfs-duckdb) - A DuckDB community extension (`INSTALL gtfs FROM community`) that brings GTFS functions to SQL, natively and in the browser with DuckDB-WASM: import a feed with one pragma, normalize stops, pathways and routes, analyze stations and routes, find shortest paths through station pathways, edit trips and build route-shape geometry. It's the engine behind [GTFS Viz 🚉](https://github.com/gabrielAHN/gtfs-viz).
 - [gtfs-via-duckdb](https://github.com/public-transport/gtfs-via-duckdb) – Analyse GTFS Schedule data by importing it into a DuckDB database. 
 
 ##### Python
